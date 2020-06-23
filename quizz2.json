@@ -63,11 +63,11 @@
         "incorrect3":"Bu iş böyle olmadı"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Halk arasında “üstüne titremek” ifadesi hangi anlamda kullanılır?",
+        "correct_answer":"Sevmek ve özen göstermek",
+        "incorrect1":"Utanmak ve sıkılmak",
+        "incorrect2":"Korkmak ve çekinmek",
+        "incorrect3":"Afallamak ve şaşırmak"
     },
     {
         "question" : "",
