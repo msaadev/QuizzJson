@@ -70,11 +70,11 @@
         "incorrect3":"Yollarına gül dökmek"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Halk arasında söze göre horozu çok olan köyde hangisi geç olur?",
+        "correct_answer":"Sabah",
+        "incorrect1":"Öğlen",
+        "incorrect2":"Akşam",
+        "incorrect3":"Bayram"
     },
     {
         "question" : "",
