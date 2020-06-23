@@ -78,17 +78,17 @@
     },
     {
         "question" : "Halk arasında kullanılan ve “yakar” şeklinde biten sözün başı nasıldır?",
-        "correct_answer":"İçi beni dışı seni",
+        "correct_answer":"İçi beni dışı seni ",
         "incorrect1":"İçi seni dışı beni",
         "incorrect2":"Dışı beni içi seni",
         "incorrect3":"Dışı seni içi teni"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“İmar geldiği zaman çok değerlenecek” vaadiyle satılan şey hangisi olabilir?",
+        "correct_answer":"Arsa",
+        "incorrect1":"Tekne",
+        "incorrect2":"Araba",
+        "incorrect3":"Tablo"
     },
     {
         "question" : "",
