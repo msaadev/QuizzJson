@@ -91,6 +91,41 @@
         "incorrect3":"Tablo"
     },
     {
+        "question" : "Halk arasında kimseyi konuşturmadan sürekli kendisi konuşanların eline aldığı söylenen müzik aleti hangisidir?",
+        "correct_answer":"Saz",
+        "incorrect1":"Gitar",
+        "incorrect2":"Kanun",
+        "incorrect3":"Flüt"
+    },
+    {
+        "question" : "“Yerini sevdi” ifadesi genellikle hangisi için kullanılır?",
+        "correct_answer":"Bitki",
+        "incorrect1":"Mobilya",
+        "incorrect2":"Kıyafet",
+        "incorrect3":"Beyaz eşya"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
         "question" : "",
         "correct_answer":"",
         "incorrect1":"",

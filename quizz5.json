@@ -77,6 +77,41 @@
         "incorrect3":"Fenerbahçe"
     },
     {
+        "question" : "İçi yumuşak, oturduğunuzda kolayca şekil alan, kalın kumaşla kaplı koltuk çeşidi hangi meyvenin adıyla anılır?",
+        "correct_answer":"Armut",
+        "incorrect1":"Ayva",
+        "incorrect2":"Kavun",
+        "incorrect3":"Kayısı"
+    },
+    {
+        "question" : "Bir futbol sahasında çeyrek daireler nerede bulunur?",
+        "correct_answer":"Korner köşelerinde",
+        "incorrect1":"Ceza alanında",
+        "incorrect2":"Orta sahada",
+        "incorrect3":"Altıpasta"
+    },
+    {
+        "question" : "Et ve balık gibi yiyecekleri odun veya saman dumanına tutarak yapılan işleme ne ad verilir?",
+        "correct_answer":"Tütsülemek",
+        "incorrect1":"Buğulamak",
+        "incorrect2":"Mühürlemek",
+        "incorrect3":"Sotelemek"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
         "question" : "",
         "correct_answer":"",
         "incorrect1":"",

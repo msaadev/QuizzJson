@@ -77,6 +77,41 @@
         "incorrect3":"Üsküp"
     },
     {
+        "question" : "“Manfred”, “Sid” ve “Diego” hangi animasyon filminin karakterleridir?",
+        "correct_answer":"Buz Devri",
+        "incorrect1":"Oyuncak Hikayesi",
+        "incorrect2":"Aslan Kral",
+        "incorrect3":"Kung Fu Panda"
+    },
+    {
+        "question" : "“Armadillo” nedir?",
+        "correct_answer":"Bir hayvandır",
+        "incorrect1":"Bir coğrafi şekildir",
+        "incorrect2":"Bir ülkedir",
+        "incorrect3":"Bir giysidir"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
         "question" : "",
         "correct_answer":"",
         "incorrect1":"",

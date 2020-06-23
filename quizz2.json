@@ -77,6 +77,41 @@
         "incorrect3":"Kızak kaymak"
     },
     {
+        "question" : "Hangisi aceleci insanlara söylenen bir ifadedir?",
+        "correct_answer":"Arkandan atlı mı kovalıyor?",
+        "incorrect1":"Başına güneş mi geçti?",
+        "incorrect2":"Tersinden mi kalktın?",
+        "incorrect3":"Jeton yeni mi düştü?"
+    },
+    {
+        "question" : "“Öne doğru eğilmek” anlamında kullanılan sözde ne olmaktan bahsedilir?",
+        "correct_answer":"İki büklüm",
+        "incorrect1":"Üç tur",
+        "incorrect2":"Dört köşe",
+        "incorrect3":"Beş kardeş"
+    },
+    {
+        "question" : "Halk arasında, önemli olanın hata yapmak olmadığı söylenirken durumdan ne çıkartmak gerektiği tavsiye edilir?",
+        "correct_answer":"Ders",
+        "incorrect1":"İltifat",
+        "incorrect2":"Tavsiye",
+        "incorrect3":"Fırsat"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
         "question" : "",
         "correct_answer":"",
         "incorrect1":"",

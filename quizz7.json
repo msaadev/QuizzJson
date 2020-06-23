@@ -103,5 +103,40 @@
         "incorrect1":"Santino",
         "incorrect2":"Fredo",
         "incorrect3":"Michael"
+    },
+    {
+        "question" : "“Karartma Geceleri”, “Bacaksız Okulda” ve “Sarı Yazma” kitapları hangi yazara aittir?",
+        "correct_answer":"Rıfat Ilgaz",
+        "incorrect1":"Haldun Taner",
+        "incorrect2":"Kemalettin Tuğcu",
+        "incorrect3":"Orhan Kemal"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]
