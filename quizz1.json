@@ -103,5 +103,19 @@
         "incorrect1":"Baktı baktı",
         "incorrect2":"Ölçtü biçti",
         "incorrect3":"Gezdi tozdu"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]
