@@ -98,45 +98,45 @@
         "incorrect3":"Sotelemek"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Eski kuşaklar tarafından “ikilem” anlamında kullanılan kelime hangisidir?",
+        "correct_answer":"Dilemma",
+        "incorrect1":"Mamafih",
+        "incorrect2":"Sitayiş",
+        "incorrect3":"Atalet"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "İçeriden görülmeden dışarıyı görmeyi sağlayan, şerit biçiminde metal veya plastik levhalardan yapılmış pencere kapama düzenine ne ad verilir?",
+        "correct_answer":"Jaluzi",
+        "incorrect1":"Agraf",
+        "incorrect2":"Korniş",
+        "incorrect3":"Rivet"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Mikroskopik dünyayı anlatan bir belgeselde, “İşte kaçmaya çalışan bakteriyi takip ediyor ve yakalayıp yutuyor” şeklinde bahsedilen canlı hangisidir?",
+        "correct_answer":"Akyuvar",
+        "incorrect1":"Alyuvar",
+        "incorrect2":"Nöron",
+        "incorrect3":"Antikor"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Büyükbabasıyla yaşayan çizgi film karakteri Heidi’nin ve arkadaşları Peter ile Clara’nın maceraları hangi dağlarda geçmektedir?",
+        "correct_answer":"Alpler",
+        "incorrect1":"Kafkaslar",
+        "incorrect2":"Himalayalar",
+        "incorrect3":"Karpatlar"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“çaydaçıra” türküsü hangi yöreye aittir?",
+        "correct_answer":"Elazığ",
+        "incorrect1":"Adıyaman",
+        "incorrect2":"Adana",
+        "incorrect3":"Şanlıurfa"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“Kuşların bir yere tutunarak orada uyuması” anlamında kullanılan ifade hangisidir?",
+        "correct_answer":"Tünemek",
+        "incorrect1":"Kuluçkaya yatmak",
+        "incorrect2":"Pineklemek",
+        "incorrect3":"Sinmek"
     }
 ]

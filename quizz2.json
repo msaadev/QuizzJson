@@ -98,45 +98,45 @@
         "incorrect3":"Fırsat"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“Bilmemek ayıp değil” şeklinde başlayan sözün devamında ayıp olanın hangisi olduğu söylenir?",
+        "correct_answer":"Öğrenmemek",
+        "incorrect1":"Yanlış bilmek",
+        "incorrect2":"Duymamak",
+        "incorrect3":"Anlamamak"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Filmlerde karakterin başına hangisi geldiğinde, klişe olarak “Burası neresi?”, “Ben kimim?”, “Siz kimsiniz?” şeklinde sorular sorar?",
+        "correct_answer":"Hafıza kaybı",
+        "incorrect1":"Ayrılık",
+        "incorrect2":"İşten kovulma",
+        "incorrect3":"Sınıfta kalma"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“Dalyan gibi” sözünün anlamı nedir?",
+        "correct_answer":"Boylu poslu",
+        "incorrect1":"Görgülü bilgili",
+        "incorrect2":"Saçlı sakallı",
+        "incorrect3":"Güçlü kuvvetli"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“Yüreğin kabarmış”, “Kısmetin taşmış” ve “Hanene ay doğmuş” gibi sözleri hangisi sırasında duyarsınız?",
+        "correct_answer":"Kahve falı",
+        "incorrect1":"Klasik müzik dinletisi",
+        "incorrect2":"Bayi toplantısı",
+        "incorrect3":"Mezuniyet töreni"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Karşısındakine “2 ile çarp, çıkan sonuca 5 ekle” gibi matematiksel işlemler yaptıran biri, konuşmanın başında muhtemelen hangisini söylemiştir?",
+        "correct_answer":"Aklından bir sayı tut",
+        "incorrect1":"İlk aşkını düşün",
+        "incorrect2":"Derin nefes al",
+        "incorrect3":"Çocukluğunu hatırla"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Çok bilinen bir satış ilkesine göre “daima haklı” olan kimdir?",
+        "correct_answer":"Müşteri",
+        "incorrect1":"Üretici",
+        "incorrect2":"Satıcı",
+        "incorrect3":"Tedarikçi"
     }
 ]

@@ -7,18 +7,18 @@
         "incorrect3":"Kedim bugün yasta"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Paul McCartney, The Beatles’ın “A Day in the Life” şarkısının sonuna yerleştirdiği sesin sadece hangi hayvan tarafından duyulabileceğini söylemiştir?",
+        "correct_answer":"Köpek",
+        "incorrect1":"Yarasa",
+        "incorrect2":"Ayı",
+        "incorrect3":"Fare"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "1941'de kocası Almanlar tarafından öldürülen Mariya Oktyabrskaya, her şeyini satıp “Savaşan Kız Arkadaş” adını verdiği hangi aracı alarak savaşa katılmıştır?",
+        "correct_answer":"Tank",
+        "incorrect1":"Savaş gemisi",
+        "incorrect2":"Uçak",
+        "incorrect3":"Denizaltı"
     },
     {
         "question" : "",

@@ -105,38 +105,38 @@
         "incorrect3":"Emniyet şeridi"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Hangi tatlı genellikle önüne “fırın” kelimesi eklenerek isimlendirilir?",
+        "correct_answer":"Sütlaç",
+        "incorrect1":"Şöbiyet",
+        "incorrect2":"Künefe",
+        "incorrect3":"Keşkül"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Elindeki parayı gösterip “İki ellilik var mı?” diye soran biri, muhtemelen hangi renkte bir para tutuyordur?",
+        "correct_answer":"Mavi",
+        "incorrect1":"Turuncu",
+        "incorrect2":"Yeşil",
+        "incorrect3":"Kırmızı"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Yemeğin çok tuzlu olması durumunda, tuzunu alması için yemeğin içine genellikle hangisi atılır?",
+        "correct_answer":"Patates",
+        "incorrect1":"Soğan",
+        "incorrect2":"Domates",
+        "incorrect3":"Sarımsak"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "“Buldozer”, “vinç” ve “forklift” gibi iş makinelerini kullanan kişiler hangi adla anılır?",
+        "correct_answer":"Operatör",
+        "incorrect1":"Kaptan",
+        "incorrect2":"Pilot",
+        "incorrect3":"Vatman"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Giysilerin üzerindeki S, M, L, XL gibi işaretler hangisi konusunda bilgi verme amaçlıdır?",
+        "correct_answer":"Giysilerin ölçüsü",
+        "incorrect1":"Malzemenin kalitesi",
+        "incorrect2":"Malzemenin türü",
+        "incorrect3":"Dikim yapılan yer"
     }
 ]

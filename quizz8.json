@@ -105,38 +105,38 @@
         "incorrect3":"En güzel mescit"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "İstanbul’da bir firma, 7 yıldır devam eden kampanya boyunca hangi hizmeti alan müşterilerine Franz Kafka’nın “Dönüşüm” kitabını hediye etmiştir?",
+        "correct_answer":"Böcek ilaçlama",
+        "incorrect1":"Tercüme ve çeviri",
+        "incorrect2":"Estetik operasyon",
+        "incorrect3":"Boya ve badana"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Lakabı 'leğen kemiği’ olan şarkıcı kimdir?",
+        "correct_answer":"Elvis Presley",
+        "incorrect1":"Tina Turner",
+        "incorrect2":"Freddie Mercury",
+        "incorrect3":"Shakira"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Bir astronot Ay yüzeyinde ellerindeki bir kuş tüyü ile bir çekici aynı anda bırakırsa hangisi gerçekleşir?",
+        "correct_answer":"İkisi aynı anda düşer",
+        "incorrect1":"Çekiç önce düşer",
+        "incorrect2":"Kuş tüyü önce düşer",
+        "incorrect3":"İkisi de havada asılı kalır"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Osmanlı Devleti’nde 'hanım iğnesi’ ile seyahat eden biri hangisini kullanmış demektir?",
+        "correct_answer":"Kayık",
+        "incorrect1":"Fayton",
+        "incorrect2":"Balon",
+        "incorrect3":"Tren"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Eskiden deri tabaklamakta kullanılan ve tabakhaneye hızlıca yetiştirilmesi gereken malzeme hangisinin dışkısı olurdu?",
+        "correct_answer":"Köpek",
+        "incorrect1":"Kedi",
+        "incorrect2":"Keçi",
+        "incorrect3":"Koyun"
     }
 ]

@@ -91,52 +91,52 @@
         "incorrect3":"Bir giysidir"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Müzikte hangi notanın adıyla anılan bir anahtar yoktur?",
+        "correct_answer":"Mİ",
+        "incorrect1":"Do",
+        "incorrect2":"FA",
+        "incorrect3":"SOL"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Genellikle gelinliklerin içine kabarık görüntü vermesi için konulan giysiye ne ad verilir?",
+        "correct_answer":"Tarlatan",
+        "incorrect1":"Jile",
+        "incorrect2":"Tayyör",
+        "incorrect3":"Klapa"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Profesyonel video çekimlerinde, çekime başlamadan önce kameralarda hangi rengi temel alan bir ayar yapılır?",
+        "correct_answer":"Beyaz",
+        "incorrect1":"Kırmızı",
+        "incorrect2":"Sarı",
+        "incorrect3":"Mavi"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Halk arasında, yaşanan karmaşık durumların benzetildiği, başkarakterleri J.R., Bobby, Ellie ve Sue Ellen olan 1980'lerin ünlü dizisi hangisidir?",
+        "correct_answer":"Dallas",
+        "incorrect1":"Cosby Ailesi",
+        "incorrect2":"Bizim Ev",
+        "incorrect3":"Miami Vice"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Şahika Ercümen ve Yasemin Dalkılıç hangi spor dalında dünya rekorları bulunan sporculardır?",
+        "correct_answer":"Dalış",
+        "incorrect1":"Atletizm",
+        "incorrect2":"Halter",
+        "incorrect3":"Tenis"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Brandenburg Kapısı'ndan geçiyorsanız, Türkiye’den kaçırılan parçalarla inşa edilen eserleri görmek için Bergama Müzesi’ni ziyaret ediyorsanız hangi şehirdesinizdir?",
+        "correct_answer":"Berlin",
+        "incorrect1":"Münih",
+        "incorrect2":"Prag",
+        "incorrect3":"Viyana"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Çizgi karakter Sünger Bob’un mesleği hangisidir?",
+        "correct_answer":"Aşçı",
+        "incorrect1":"Denizci",
+        "incorrect2":"Kütüphaneci",
+        "incorrect3":"Dedektif"
     }
 ]
