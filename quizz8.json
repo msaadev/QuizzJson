@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Dünyadaki en fazla dinozor yumurtası fosilini bulundurarak Guinness Dünya Rekorları'na giren ve lakabı “Dinozorlar Evi” olan şehir hangi ülkededir?",
+        "correct_answer":"Çin",
+        "incorrect1":"İngiltere",
+        "incorrect2":"Rusya",
+        "incorrect3":"ABD"
+    },
+    {
+        "question" : "Antik Yunan’da düzenlenen Olimpiyat oyunlarında birinci olana verilen kupanın içinde hangisi olurdu?",
+        "correct_answer":"Zeytinyağı",
+        "incorrect1":"Altın sikke",
+        "incorrect2":"Gümüş sikke",
+        "incorrect3":"Tuz"
+    },
+    {
+        "question" : "“Süper Mario” oyununda, Mario’nun kendisi gibi muslukçu olan erkek kardeşinin adı nedir?",
+        "correct_answer":"Luigi",
+        "incorrect1":"Emilio",
+        "incorrect2":"Leonardo",
+        "incorrect3":"Luciano"
+    },
+    {
+        "question" : "Hangisi, 11 Oscar ile “En Fazla Oscar Kazanan Filmler” listesinde ilk sırayı paylaşan 3 filmden biri değildir?",
+        "correct_answer":"Yıldız Savaşları: Yeni Bir Umut",
+        "incorrect1":"Ben-Hur",
+        "incorrect2":"Yüzüklerin Efendisi: Kralın Dönüşü",
+        "incorrect3":"Titanik"
+    },
+    {
+        "question" : "Afrika’da ulusal parkların dışındaki çiftçi tarlalarına zarar veren filleri engellemek için çiftçiler hangilerini besleyerek filleri tarlalarından uzak tutabilmektedirler?",
+        "correct_answer":"Arı",
+        "incorrect1":"Fare",
+        "incorrect2":"Karga",
+        "incorrect3":"Kirpi"
+    },
+    {
+        "question" : "Hangi kuşun diğer adı “ebabil”dir?",
+        "correct_answer":"Dağ kırlangıcı",
+        "incorrect1":"Bataklık kırlangıcı",
+        "incorrect2":"Çöl kırlangıcı",
+        "incorrect3":"Deniz kırlangıcı"
+    },
+    {
+        "question" : "1926'da önce kullanılan ve “Alaturka” da denilen saat sistemine göre bir günün bitip diğerinin başladığını haber veren ezan hangisi olur?",
+        "correct_answer":"Akşam ezanı",
+        "incorrect1":"Sabah ezanı",
+        "incorrect2":"Öğle ezanı",
+        "incorrect3":"Yatsı ezanı"
+    },
+    {
+        "question" : "Hangisi bir hamur tatlısıdır?",
+        "correct_answer":"Mafiş",
+        "incorrect1":"Kesat",
+        "incorrect2":"Heyhey",
+        "incorrect3":"Maval"
+    },
+    {
+        "question" : "Hangi hayvan, yavrularını 8 yıldan daha uzun süre emzirebilmektedir?",
+        "correct_answer":"Orangutan",
+        "incorrect1":"Ayı",
+        "incorrect2":"Yarasa",
+        "incorrect3":"Zürafa"
+    },
+    {
+        "question" : "“Şövalye”, “kavalye” gibi Türkçeye Fransızcadan geçmiş kelimelerin kökeninin anlamı hangisidir?",
+        "correct_answer":"At",
+        "incorrect1":"Kılıç",
+        "incorrect2":"Mızrak",
+        "incorrect3":"Zırh"
+    },
+    {
+        "question" : "İstanbul Üniversitesi’nin kuruluş tarihi olan 1453'ün Beyazıt Yerleşkesi’nin kapısında yer alan Roma rakamlarıyla yazılışı nasıldır?",
+        "correct_answer":"MCDLIII",
+        "incorrect1":"MDCLIII",
+        "incorrect2":"MDLCIII",
+        "incorrect3":"MCLDIII"
+    },
+    {
+        "question" : "TDK Atasözleri ve Deyimler Sözlüğü'ne göre hangisi bir atasözüdür?",
+        "correct_answer":"Deveden büyük fil var",
+        "incorrect1":"Kediden büyük köpek var",
+        "incorrect2":"Horozdan büyük hindi var",
+        "incorrect3":"Koyundan büyük inek var"
+    },
+    {
+        "question" : "İstanbul’un fethine 20'li yaşlarda tanık olan ve 50 yaşında vefat eden biri hayatı boyunca hangisini görmemiştir?",
+        "correct_answer":"Hindi",
+        "incorrect1":"Tavuk",
+        "incorrect2":"Kaz",
+        "incorrect3":"Ördek"
+    },
+    {
+        "question" : "Cüneyt Arkın filmlerinde hangilerine karşı savaşmamıştır?",
+        "correct_answer":"Vampirler",
+        "incorrect1":"Kovboylar",
+        "incorrect2":"Uzaylılar",
+        "incorrect3":"Ninjalar"
+    },
+    {
+        "question" : "“Mescid-i Aksa”nın kelime anlamı hangisidir?",
+        "correct_answer":"En uzak mescit",
+        "incorrect1":"En yakın mescit",
+        "incorrect2":"En sade mescit",
+        "incorrect3":"En güzel mescit"
+    }
+]

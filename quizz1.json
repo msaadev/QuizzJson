@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Osmanlı'nın ilk Padişahı Kimdir ?",
+        "correct_answer":"Osman",
+        "incorrect1":"Orhan",
+        "incorrect2":"Murad",
+        "incorrect3":"Fatih Sultan Mehmet"
+    },
+    {
+        "question" : "'Gıpgıcır' ne anlama gelir ?",
+        "correct_answer":"yepyeni",
+        "incorrect1":"Tozpembe",
+        "incorrect2":"Sapsarı",
+        "incorrect3":"Çok Eski"
+    },
+    {
+        "question" : " Günümüzde özellikle Kur’an-ı Kerim okurken kullanılan küçük masaya ne ad verilir ? ",
+        "correct_answer":"Rahle",
+        "incorrect1":"Minber",
+        "incorrect2":"Kandil",
+        "incorrect3":"Mihrap"
+    },
+    {
+        "question" : " “Alçak Gönüllü” anlamına gelen kelimenin doğru yazılışı nasıldır ? ",
+        "correct_answer":"Mütevazı",
+        "incorrect1":"Mütavazı",
+        "incorrect2":"Mütevazi",
+        "incorrect3":"Mütavazi"
+    },
+    {
+        "question" : " Çin Seddi nerededir ?",
+        "correct_answer":"Çin",
+        "incorrect1":"Türkiye",
+        "incorrect2":"Vietnam",
+        "incorrect3":"Moğolistan"
+    },
+    {
+        "question" : "Kumaşın kenarına tığ ile işlenen, eski evlerde sıkça görülen, giysi ve örtülerde kullanılan örgüye ne ad verilir ?",
+        "correct_answer":"Dantel",
+        "incorrect1":"Fisto",
+        "incorrect2":"Kurdele",
+        "incorrect3":"Kanaviçe"
+    },
+    {
+        "question" : "Bir insanın hastalığı ne olursa olsun, iyi gelmesi için klişe olarak hangisi pişirilir ?",
+        "correct_answer":"Çorba",
+        "incorrect1":"Mantı",
+        "incorrect2":"Menemen",
+        "incorrect3":"Muhallebi"
+    },
+    {
+        "question" : "Tavla karşılaşmaları genellikle kaçta biter ?",
+        "correct_answer":"5",
+        "incorrect1":"3",
+        "incorrect2":"7",
+        "incorrect3":"10"
+    },
+    {
+        "question" : "Bir şeyin en fazla olabilecek miktarı hangi sözle ifade edilir ?",
+        "correct_answer":"Taş çatlasa",
+        "incorrect1":"Yer yarılsa",
+        "incorrect2":"İğne düşse",
+        "incorrect3":"Top patlasa"
+    },
+    {
+        "question" : "Halk arasında oğlanın dayıya çektiği söylenirken, kızın kime çektiği söylenir ?",
+        "correct_answer":"Halaya",
+        "incorrect1":"Teyzeye",
+        "incorrect2":"Yengeye",
+        "incorrect3":"Eltiye"
+    },
+    {
+        "question" : "Açılış törenlerine veya düğünlere katılamayan kişiler genellikle ne gönderirler?",
+        "correct_answer":"Çelenk",
+        "incorrect1":"İstek şarkı",
+        "incorrect2":"Meyve tabağı",
+        "incorrect3":"Çek"
+    },
+    {
+        "question" : "“Şuraya ne yazıldıysa o olur” diyen biri parmağıyla nereyi işaret eder?",
+        "correct_answer":"Alnını",
+        "incorrect1":"Avuç içini",
+        "incorrect2":"Ensesini",
+        "incorrect3":"Göğsünü"
+    },
+    {
+        "question" : "“Kıpırdamayın, çekiyorum, çekiyorum, çektim” diyen kişi muhtemelen kimdir?",
+        "correct_answer":"Fotoğrafçı",
+        "incorrect1":"Ressam",
+        "incorrect2":"Niyetçi",
+        "incorrect3":"Dişçi"
+    },
+    {
+        "question" : "El ve yüz temizliğinde kullanılan, nemlendirilmiş, hoş kokulu “kolonyalı” mendilleri için kullanılan diğer ifade hangisidir?",
+        "correct_answer":"Islak",
+        "incorrect1":"Nemli",
+        "incorrect2":"Sulu",
+        "incorrect3":"Kokulu"
+    },
+    {
+        "question" : "Uzun süreli bekleyişin sonunda istediğini elde eden kişiler için kullanılan “turnayı gözünden vurdu” şeklinde biten sözün başında hangisi söylenir?",
+        "correct_answer":"Durdu durdu",
+        "incorrect1":"Baktı baktı",
+        "incorrect2":"Ölçtü biçti",
+        "incorrect3":"Gezdi tozdu"
+    }
+]

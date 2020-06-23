@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "1982’de David Grundman’ın eğlence amaçlı ateş ettiği yaklaşık sekiz metre uzunluğundaki hangi bitki devrilerek ölümüne neden olmuştur ?",
+        "correct_answer":"Kaktüs ",
+        "incorrect1":"Palmiye",
+        "incorrect2":"Muz Ağacı",
+        "incorrect3":"Bambu"
+    },
+    {
+        "question" : "Sultan Abdülaziz döneminde yaşanan trajikomik bir aşk hikayesini anlatan, Recaizade Mahmud Ekrem’in tek romanı olan eser hangisidir ?",
+        "correct_answer":"Araba Sevdası",
+        "incorrect1":"İntibah",
+        "incorrect2":"Sergüzeşt",
+        "incorrect3":"Karabibik"
+    },
+    {
+        "question" : "Türkiye “Mavi Akım” projesini aşağıdaki devletlerin hangisiyle gerçekleştirmiştir ?",
+        "correct_answer":"Azerbaycan ",
+        "incorrect1":"Gürcistan",
+        "incorrect2":"Rusya",
+        "incorrect3":"Türkmenistan"
+    },
+    {
+        "question" : "2017 yılında UEFA Şampiyonlar Ligi finalinde Juventus’u yenerek, şampiyon olan takım hangisidir?",
+        "correct_answer":"Real Madrid",
+        "incorrect1":"Barcelona",
+        "incorrect2":"Bayern Münih",
+        "incorrect3":"Chelsea"
+    },
+    {
+        "question" : "“Lancelot”, “Guinevere” ve “Mordred” hangi efsanevi kişinin hikayelerinde yer alan karakterlerdir?",
+        "correct_answer":"Kral Arthur",
+        "incorrect1":"Robin Hood",
+        "incorrect2":"William Tell",
+        "incorrect3":"Beowulf"
+    },
+    {
+        "question" : "“Semih Saygıner”, “Tayfun Taşdemir” ve “Serdar Gümüş” hangi dalda şampiyonluklar kazanmış milli sporculardır?",
+        "correct_answer":"Bilardo",
+        "incorrect1":"Eksrim",
+        "incorrect2":"Polo",
+        "incorrect3":"Bovling"
+    },
+    {
+        "question" : "Auguste ve Louis Lumiere kardeşler, hangi alanda verdikleri eserlerle bilinen isimlerdir?",
+        "correct_answer":"Sinema",
+        "incorrect1":"Müzik",
+        "incorrect2":"Edebiyat",
+        "incorrect3":"Heykel"
+    },
+    {
+        "question" : "Bir büyükelçinin temsilci olarak bulunduğu ülke dışına çıkması durumunda veya o ülkeye gelmesinden önce ona vekalet eden diplomata ne ad verilir?",
+        "correct_answer":"Maslahatgüzar",
+        "incorrect1":"Ataşe",
+        "incorrect2":"Konsolos",
+        "incorrect3":"Müsteşar"
+    },
+    {
+        "question" : "Hangisi Türkçedeki ünlü harfleri iki karşı gruba ayıran başlıklardan biri değildir?",
+        "correct_answer":"Sert-Yumuşak",
+        "incorrect1":"Kalın-İnce",
+        "incorrect2":"Geniş-Dar",
+        "incorrect3":"Düz-Yuvarlak"
+    },
+    {
+        "question" : "Ilgaz Dağları'nda dolaştığını söyleyen biri hangi iki il sınırları içerisinde geziyor demektir?",
+        "correct_answer":"Kastamonu-Çankırı",
+        "incorrect1":"Sakarya-Bolu",
+        "incorrect2":"Sinop-Samsun",
+        "incorrect3":"Amasya-Giresun"
+    },
+    {
+        "question" : "Hangisinin adıyla anılan ve atkı, hırka gibi kıyafetlerde kullanılan bir tür örgü biçimi vardır?",
+        "correct_answer":"Selanik",
+        "incorrect1":"Beyrut",
+        "incorrect2":"Sofya",
+        "incorrect3":"Üsküp"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    }
+]

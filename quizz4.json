@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Türkiye’nin Karadeniz’deki en büyük adası hangi şehirle aynı adı taşır ?",
+        "correct_answer":"Giresun",
+        "incorrect1":"Ordu",
+        "incorrect2":"Sinop",
+        "incorrect3":"Samsun"
+    },
+    {
+        "question" : "Duru sakin havada çıkan kuru soğuk anlamına gelen ayaz kelimesinin kökeni hangisidir ?",
+        "correct_answer":"Aydınlık ",
+        "incorrect1":"Keskinlik",
+        "incorrect2":"Karanlık",
+        "incorrect3":"Yalnızlık"
+    },
+    {
+        "question" : "Size izlemediğiniz bir filmle ilgili hangisi söyleyen kişi “spoiler” vermiş olur?",
+        "correct_answer":"Sonunun nasıl bittiğini",
+        "incorrect1":"Başrol oyuncusunun adını",
+        "incorrect2":"Yönetmenin kim olduğunu",
+        "incorrect3":"Hangi ülkede çekildiğini"
+    },
+    {
+        "question" : "40 yolcusu bulunan bir belediye otobüsünden, bir durakta 15 yolcu inip 9 yeni yolcu binmişse, son durumda yolcu sayısı kaç olur?",
+        "correct_answer":"34",
+        "incorrect1":"44",
+        "incorrect2":"36",
+        "incorrect3":"46"
+    },
+    {
+        "question" : "“Karaman”, “merinos”, “kıvırcık” hangi hayvanın türleridir?",
+        "correct_answer":"Koyun",
+        "incorrect1":"At",
+        "incorrect2":"Sığır",
+        "incorrect3":"Keçi"
+    },
+    {
+        "question" : "Sezen Aksu, “Gülümse, hadi gülümse, bulutlar gitsin” diye başlayan şarkısında, hangi hayvanının bile olmadığından bahseder?",
+        "correct_answer":"Kedi",
+        "incorrect1":"Köpek",
+        "incorrect2":"Tavşan",
+        "incorrect3":"Kuş"
+    },
+    {
+        "question" : "“Kırlent” hangisinin bir türüdür?",
+        "correct_answer":"Yastık",
+        "incorrect1":"Halı",
+        "incorrect2":"Nevresim",
+        "incorrect3":"Yorgan"
+    },
+    {
+        "question" : "“Ekşimik”, “feta” ve “çedar” hangisinin türleridir?",
+        "correct_answer":"Peynir",
+        "incorrect1":"Mantar",
+        "incorrect2":"Üzüm",
+        "incorrect3":"Makarna"
+    },
+    {
+        "question" : "“Crunch”, “squat” ve “plank” hangi alanda kullanılan terimlerdir?",
+        "correct_answer":"Spor",
+        "incorrect1":"Sigortacılık",
+        "incorrect2":"Müzik",
+        "incorrect3":"Resim"
+    },
+    {
+        "question" : "“Akçaabat”, “İnegöl”, “Tire” gibi yerlerin hangi tür yiyeceği meşhurdur?",
+        "correct_answer":"Köfte",
+        "incorrect1":"Dondurma",
+        "incorrect2":"Helva",
+        "incorrect3":"Kebap"
+    },
+    {
+        "question" : "“Göbekli”, “şeker” ve “kan” hangi meyvenin türleridir?",
+        "correct_answer":"Portakal",
+        "incorrect1":"Kiraz",
+        "incorrect2":"Mandalina",
+        "incorrect3":"Karpuz"
+    },
+    {
+        "question" : "Boksta, bükük kolla aşağıdan yukarıya doğru çeneye atılan yumruğa ne ad verilir?",
+        "correct_answer":"Aparkat",
+        "incorrect1":"Kroşe",
+        "incorrect2":"Swing",
+        "incorrect3":"Punch"
+    },
+    {
+        "question" : "Sebzeli, etli birçok farklı tarifle hazırlanan, Çin mutfağına özgü, çorba içinde pişirilen erişte veya şehriyeye ne ad verilir?",
+        "correct_answer":"Noodle",
+        "incorrect1":"Wasabi",
+        "incorrect2":"Tofu",
+        "incorrect3":"Taco"
+    },
+    {
+        "question" : "Değeri olan şeyleri, kimseleri koruyan veya sayan, iyilikbilir kişiler için kullanılan ifade hangisidir?",
+        "correct_answer":"Kadirşinas",
+        "incorrect1":"Müşkülpesent",
+        "incorrect2":"Nanemolla",
+        "incorrect3":"Vakur"
+    },
+    {
+        "question" : "Araçların bir ana yoldaki trafiğe daha güvenli şekilde katılmaları için yapılmış “katılma şeridi” de denilen şeritlere ne ad verilir?",
+        "correct_answer":"Hızlanma şeridi",
+        "incorrect1":"Sol şerit",
+        "incorrect2":"Tırmanma şeridi",
+        "incorrect3":"Emniyet şeridi"
+    }
+]

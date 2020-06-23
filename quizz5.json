@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Türkçede kelimeler en çok hangi harfle başlar?",
+        "correct_answer":"K harfi",
+        "incorrect1":"M harfi",
+        "incorrect2":"R harfi",
+        "incorrect3":"S harfi"
+    },
+    {
+        "question" : "Türkiye’nin hangi ülkeye olan kara sınırı daha uzundur ?",
+        "correct_answer":"Ermenistan",
+        "incorrect1":"Gürcistan",
+        "incorrect2":"Yunanistan",
+        "incorrect3":"Bulgaristan"
+    },
+    {
+        "question" : "Hangi ikisi Türkiye 1. futbol liginden futbolcu olarak şampiyonluk yaşamamıştır ?",
+        "correct_answer":"Mustafa Denizli – Fatih Terim",
+        "incorrect1":"Aykut Kocaman – Ertuğrul Sağlam",
+        "incorrect2":"Ersun Yanal – Şenol Güneş",
+        "incorrect3":"Rıdvan Dilmen – Sergen Yalçın"
+    },
+    {
+        "question" : "“Sebat etmelisin” diyen bir arkadaşınız size hangi öğüdü vermiş olur?",
+        "correct_answer":"Kararından dönmemelisin",
+        "incorrect1":"Hayal etmelisin",
+        "incorrect2":"Baştan başlamalısın",
+        "incorrect3":"Vazgeçmelisin"
+    },
+    {
+        "question" : "Neşeli Günler filminde “Ziya” karakterini canlandıran oyuncu kimdir?",
+        "correct_answer":"Şener Şen",
+        "incorrect1":"Kemal Sunal",
+        "incorrect2":"İlyas Salman",
+        "incorrect3":"Tarık Akan"
+    },
+    {
+        "question" : "“Tevatür” kelimesinin anlamı nedir?",
+        "correct_answer":"Söylenti",
+        "incorrect1":"Karmaşık",
+        "incorrect2":"Basitleştirilmiş",
+        "incorrect3":"Kanıtlanmış"
+    },
+    {
+        "question" : "Haberlerde “Avam Kamarası'nda kabul edilen yasa tasarısı, Lordlar Kamarası'nda görüşülecek” cümlesini duyduysanız, bahsi geçen ülke hangisidir?",
+        "correct_answer":"İngiltere",
+        "incorrect1":"İsveç",
+        "incorrect2":"Almanya",
+        "incorrect3":"Danimarka"
+    },
+    {
+        "question" : "Yeşilçam’da “Karacaoğlan” ve “Tarkan” karakterlerini canlandıran, “Tosun Paşa” ve “Hababam Sınıfı Dokuz Doğuruyor” filmlerini yöneten kişi kimdir?",
+        "correct_answer":"Kartal Tibet",
+        "incorrect1":"Ekrem Bora",
+        "incorrect2":"Yılmaz Güney",
+        "incorrect3":"Ediz Hun"
+    },
+    {
+        "question" : "Bir giysinin iki yanını bitiştirmeye yarayan ve metal bir halka ile bir çengelden oluşan araca ne ad verilir?",
+        "correct_answer":"Kopça",
+        "incorrect1":"Gergef",
+        "incorrect2":"Yüksük",
+        "incorrect3":"Çile"
+    },
+    {
+        "question" : "Uçabilen bir fil olan çizgi film kahramanı “Dumbo”, hikayeye göre hangisi sayesinde uçabilmektedir?",
+        "correct_answer":"Kulakları",
+        "incorrect1":"Gözleri",
+        "incorrect2":"Hortumu",
+        "incorrect3":"Ayakları"
+    },
+    {
+        "question" : "Giymiş oldukları “19” ve “03” sırt numaralı formalarıyla yan yana gelen sevgililer, hangi takıma olan sevgilerini gösterirler?",
+        "correct_answer":"Beşiktaş",
+        "incorrect1":"Galatasaray",
+        "incorrect2":"Trabzonspor",
+        "incorrect3":"Fenerbahçe"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    }
+]

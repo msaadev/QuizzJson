@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Pillerin iki ucunda bulunan işaretler hangileridir?",
+        "correct_answer":"Artı ve eksi",
+        "incorrect1":"1 ve 0",
+        "incorrect2":"X ve Y",
+        "incorrect3":"Üçgen ve dikdörtgen"
+    },
+    {
+        "question" : "Halı saha maçlarında hangisi genellikle görülmez?",
+        "correct_answer":"Taç atışı",
+        "incorrect1":"Köşe vuruşu",
+        "incorrect2":"Serbest vuruş",
+        "incorrect3":"Penaltı"
+    },
+    {
+        "question" : "Halk arasında kullanılan bir sözde, peynir gemisinin hangisiyle yürümeyeceğinden bahsedilir?",
+        "correct_answer":"Lafla",
+        "incorrect1":"Tezahüratla",
+        "incorrect2":"Sözle",
+        "incorrect3":"Gazla"
+    },
+    {
+        "question" : "Bir nikah öncesinde, gelinin bekar arkadaşları genellikle nereye isimlerini yazarlar?",
+        "correct_answer":"Gelinin ayakkabısının altına",
+        "incorrect1":"Gelinin duvağının içine",
+        "incorrect2":"Gelinin alnının üstüne",
+        "incorrect3":"Gelin buketinin kenarlarına"
+    },
+    {
+        "question" : "Arkadaşınız size hangisini söylerse, inat ederek yaptığınız bir işin sonucunda kimsenin fayda görmediğini düşünüyor demektir?",
+        "correct_answer":"Başın göğe erdi mi?",
+        "incorrect1":"Ne münasebet?",
+        "incorrect2":"Hiç mi yok?",
+        "incorrect3":"Neden ben?"
+    },
+    {
+        "question" : "İnternet sitelerinde yer alan “SSS”nin açılımında, “Sorulan Sorular”dan önce hangi kelime gelir?",
+        "correct_answer":"Sıkça",
+        "incorrect1":"Sinsice",
+        "incorrect2":"Sabırsızca",
+        "incorrect3":"Saatlerce"
+    },
+    {
+        "question" : "“Pilot”, “dolma” ve “kurşun” hangisinin çeşitlerine verilen isimlerdir?",
+        "correct_answer":"Kalem",
+        "incorrect1":"Silgi",
+        "incorrect2":"Defter",
+        "incorrect3":"Cetvel"
+    },
+    {
+        "question" : "İlkokulda, sınıfta konuşanların ve yaramazlık yapanların adını tahtaya yazan öğrenci genellikle kim olur?",
+        "correct_answer":"Sınıf başkanı",
+        "incorrect1":"Temizlik kolu başkanı",
+        "incorrect2":"Kütüphane kolu başkanı",
+        "incorrect3":"İlk yardım kolu başkanı"
+    },
+    {
+        "question" : "İçinden çıkılması güç bir durum karşısında söylenen “Doluya koydum almadı” şeklinde başlayan sözün devamı nasıldır?",
+        "correct_answer":"Boşa koydum dolmadı",
+        "incorrect1":"Elimde hiç kalmadı",
+        "incorrect2":"Döküldü azalmadı",
+        "incorrect3":"Bu iş böyle olmadı"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    }
+]

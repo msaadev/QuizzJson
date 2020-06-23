@@ -1,0 +1,107 @@
+[
+    {
+        "question" : "Diğer adı “Eskişehir Taşı” olan taş hangisidir ?",
+        "correct_answer":"Lüle taşı",
+        "incorrect1":"Oltu taşı",
+        "incorrect2":"Çakmak taşı",
+        "incorrect3":"Sünger taşı"
+    },
+    {
+        "question" : "Meslektaşlarıyla yürüyüş yarışmalarına katılan kişi muhtemelen kimdir?",
+        "correct_answer":"Postacı",
+        "incorrect1":"Noter",
+        "incorrect2":"Bakkal",
+        "incorrect3":"Terzi"
+    },
+    {
+        "question" : "Hangi hayvanların tırnakları “toynak” olarak adlandırılır?",
+        "correct_answer":"At ve eşek",
+        "incorrect1":"Tavuk ve horoz",
+        "incorrect2":"Kedi ve köpek",
+        "incorrect3":"Hindi ve ördek"
+    },
+    {
+        "question" : "“Seninki 3 oktav olduğu için tizlere rahat çıkabiliyorsun” denilen birinin mesleği muhtemelen hangisidir?",
+        "correct_answer":"Şarkıcı",
+        "incorrect1":"Balet",
+        "incorrect2":"Pandomim sanatçısı",
+        "incorrect3":"Jonglör"
+    },
+    {
+        "question" : "“Sabah zumba dersim var akşam da spinning dersine gireceğim” diyen biri bu dersleri muhtemelen nerede alacaktır?",
+        "correct_answer":"Spor salonunda",
+        "incorrect1":"Halı sahada",
+        "incorrect2":"Kütüphanede",
+        "incorrect3":"Düğün salonunda"
+    },
+    {
+        "question" : "Tuttuğu bozuk parayı parmaklarının arasında dolaştıran sihirbaz, avcunu açıp kaybolduğunu gösterdikten sonra parayı genellikle neresinden çıkartır?",
+        "correct_answer":"Kulağının arkasından",
+        "incorrect1":"Çenesinin altından",
+        "incorrect2":"Başının üstünden",
+        "incorrect3":"Ağzının içinden"
+    },
+    {
+        "question" : "“Senin o anlattığın devede kulak” diyen biri bahsettiği şey hakkında hangisini söylemek istiyordur?",
+        "correct_answer":"Çok küçük ve yetersiz",
+        "incorrect1":"Çok karmaşık ve anlamsız",
+        "incorrect2":"Çok büyük ve dikkat çekici",
+        "incorrect3":"Çok detaylı ve derin"
+    },
+    {
+        "question" : "Otomobil yıkamaya verilirken yıkanması gereken yerler genellikle nasıl belirtilir?",
+        "correct_answer":"İç dış",
+        "incorrect1":"Ön arka",
+        "incorrect2":"Alt üst",
+        "incorrect3":"Cam çerçeve"
+    },
+    {
+        "question" : "“Çatallı” ifadesi hangisinin kusurlu olanı için kullanılır?",
+        "correct_answer":"Ses",
+        "incorrect1":"Koku",
+        "incorrect2":"Görüntü",
+        "incorrect3":"Tat"
+    },
+    {
+        "question" : "Sevdiği kişiye “serenat” yaptığı söylenen biri hangisini yapmış demektir?",
+        "correct_answer":"Açık havada şarkı söylemek",
+        "incorrect1":"Kapalı alanda dans etmek",
+        "incorrect2":"Adına şiirler yazmak",
+        "incorrect3":"Yollarına gül dökmek"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    }
+]
