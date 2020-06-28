@@ -138,5 +138,40 @@
         "incorrect1":"Kuluçkaya yatmak",
         "incorrect2":"Pineklemek",
         "incorrect3":"Sinmek"
+    },
+    {
+        "question" : "Biri size 'alicenap’ sözüyle iltifat ediyorsa hangi özelliğinizi vurguluyordur?",
+        "correct_answer":"Cömertliğinizi",
+        "incorrect1":"Sabrınızı",
+        "incorrect2":"Açık sözlülüğünüzü",
+        "incorrect3":"Kibarlığınızı"
+    },
+     {
+        "question" : "Çarşaf ile yatak arasına serilen koruyucu örtü hangi isimle anılır?",
+        "correct_answer":"Alez",
+        "incorrect1":"Kırlent",
+        "incorrect2":"Nevresim",
+        "incorrect3":"Pike"
+    },
+     {
+        "question" : "Ayın hareketlerine göre oluşturulan hicri takvimde kaç adet ay bulunur?",
+        "correct_answer":"12",
+        "incorrect1":"14",
+        "incorrect2":"10",
+        "incorrect3":"9"
+    },
+    {
+        "question" : "Eskiden, genellikle el kurulamak için ya da peçete yerine kullanılan, işlemeli ince pamuklu kumaşlara ne ad verilir?",
+        "correct_answer":"Peşkir",
+        "incorrect1":"Peştamal",
+        "incorrect2":"Bindallı",
+        "incorrect3":"Cepken"
+    },
+    {
+        "question" : "Şövalye ilan edilenler, isimlerinin önüne genellikle hangi unvanı alırlar?",
+        "correct_answer":"Sör",
+        "incorrect1":"Baron",
+        "incorrect2":"Mösyö",
+        "incorrect3":"Dük"
     }
 ]

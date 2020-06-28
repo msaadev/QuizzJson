@@ -138,5 +138,33 @@
         "incorrect1":"Denizci",
         "incorrect2":"Kütüphaneci",
         "incorrect3":"Dedektif"
+    },
+    {
+        "question" : "Hangisi Fethiye’dedir?",
+        "correct_answer":"Kabak Koyu",
+        "incorrect1":"Aspendos Tiyatrosu",
+        "incorrect2":"Ihlara Vadisi",
+        "incorrect3":"Olimpos Dağı"
+    },
+    {
+        "question" : "'Pelennor Çayırları, Rohan ve Mordor’ hangi film serisinde geçen yer isimleridir?",
+        "correct_answer":"Yüzüklerin Efendisi",
+        "incorrect1":"Harry Potter",
+        "incorrect2":"Oz Büyücüsü",
+        "incorrect3":"Narnia Günlükleri"
+    },
+    {
+        "question" : "Uçuşunuz öncesinde online check-in yaptıysanız, havaalanında biletinizi almak için check-in makinesine yazmanız gereken PNR’ın Türkçe açılımı nedir?",
+        "correct_answer":"Yolcu İsim Kaydı",
+        "incorrect1":"Kişisel Numara Kaydı",
+        "incorrect2":"Kişisel İsim Kaydı",
+        "incorrect3":"Yolcu Sayısı Kaydı"
+    },
+    {
+        "question" : "Halk arasında, hayvan yemi deposu ve ahır olarak kullanılan yere ne ad verilir?",
+        "correct_answer":"Yolcu İsim Kaydı",
+        "incorrect1":"Kişisel Numara Kaydı",
+        "incorrect2":"Kişisel İsim Kaydı",
+        "incorrect3":"Yolcu Sayısı Kaydı"
     }
 ]

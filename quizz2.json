@@ -133,10 +133,45 @@
         "incorrect3":"Çocukluğunu hatırla"
     },
     {
-        "question" : "Çok bilinen bir satış ilkesine göre “daima haklı” olan kimdir?",
+        "question" : "”Çok bilinen bir satış ilkesine göre “daima haklı” olan kimdir?",
         "correct_answer":"Müşteri",
         "incorrect1":"Üretici",
         "incorrect2":"Satıcı",
         "incorrect3":"Tedarikçi"
+    },
+    {
+        "question" : "Hava durumu bültenlerinde havanın az bulutlu olması nasıl ifade edilir?",
+        "correct_answer":"Parçalı",
+        "incorrect1":"Dalgalı",
+        "incorrect2":"Damalı",
+        "incorrect3":"Akıcı"
+    },
+    {
+        "question" : "'Tabanvay giderim’ diyen biri nasıl gitmekten bahsediyordur?",
+        "correct_answer":"Yürüyerek",
+        "incorrect1":"Trenle",
+        "incorrect2":"Motosikletle",
+        "incorrect3":"Vapurla"
+    },
+    {
+        "question" : "Evlerde çamaşır makinesinin yanında iki farklı kirli sepeti varsa, çamaşırlar bunlara genellikle hangi ayrım yapılarak atılırlar?",
+        "correct_answer":"Renkliler-Beyazlar",
+        "incorrect1":"Pantolonlar-Gömlekler",
+        "incorrect2":"Az kirliler-Çok kirliler",
+        "incorrect3":"Pamuklular-Sentetikler"
+    },
+    {
+        "question" : "Otomobilinizle gittiğiniz yerde aracınızın fren mesafesine, yangın tüpüne ve egzoz emisyonunan bakılıyorsa neredesinizdir?",
+        "correct_answer":"Araç muayene istasyonu",
+        "incorrect1":"Müzayede salonu",
+        "incorrect2":"Alışveriş merkezi",
+        "incorrect3":"Otopark alanı"
+    },
+    {
+        "question" : "Özellikle kavga eden çiftler, sinirlenmeden oturup sorunu tartıştıklarında ne gibi konuştuklarını söylerler?",
+        "correct_answer":"İki medeni insan",
+        "incorrect1":"İki inatçı kedi",
+        "incorrect2":"İki küçük çocuk",
+        "incorrect3":"İki eski dost"
     }
 ]

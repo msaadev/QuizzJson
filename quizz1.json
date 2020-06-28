@@ -138,5 +138,33 @@
         "incorrect1":"Korkmuş",
         "incorrect2":"Üzgün",
         "incorrect3":"Utanmış"
+    },
+     {
+        "question" : "Halk arasında söylenen bir söze göre, aslan nesinden belli olur?",
+        "correct_answer":"Yatağından",
+        "incorrect1":"Yelesinden",
+        "incorrect2":"Pençesinden",
+        "incorrect3":"Yemeğinden"
+    },
+    {
+        "question" : "'Kaptan arka kapı' sözü kime söylenir?",
+        "correct_answer":"Otobüs şoförü",
+        "incorrect1":"Tren makinisti",
+        "incorrect2":"Gemi kaptanı",
+        "incorrect3":"Uçak pilotu"
+    },
+    {
+        "question" : "Size 'Elektrik, su ve doğal gazı üstüne alırsın’ diyen kişi yakında muhtemelen neyiniz olacaktır?",
+        "correct_answer":"Ev sahibiniz",
+        "incorrect1":"Eşiniz",
+        "incorrect2":"Patronunuz",
+        "incorrect3":"Kayınvalideniz"
+    },
+    {
+        "question" : "Filmlerde yüksek sesle konuşanların genellikle gözlüklü ve orta yaşı görevli tarafından 'Şşşt!' sesiyle uyarıldığı yer neresidir?",
+        "correct_answer":"Kütüphane",
+        "incorrect1":"Market",
+        "incorrect2":"Otopark",
+        "incorrect3":"Stadyum"
     }
 ]

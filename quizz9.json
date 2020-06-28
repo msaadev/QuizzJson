@@ -138,5 +138,12 @@
         "incorrect1":"The Rolling Stones",
         "incorrect2":"The Doors",
         "incorrect3":"Pearl Jam"
+    },
+    {
+        "question" : "Hangisi “Selvi Boylum Al Yazmalım” filminin sonunda Türkan Şoray’ın canlandırdığı Asya’nın, “Sevgi neydi?” sorusuna vermiş olduğu 3 cevaptan biri değildir?",
+        "correct_answer":"Sabırdı",
+        "incorrect1":"İyilikti",
+        "incorrect2":"Emekti",
+        "incorrect3":"Dostluktu"
     }
 ]

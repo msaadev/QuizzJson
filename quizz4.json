@@ -138,5 +138,40 @@
         "incorrect1":"Malzemenin kalitesi",
         "incorrect2":"Malzemenin türü",
         "incorrect3":"Dikim yapılan yer"
+    },
+    {
+        "question" : "İki alana bir bedava kampanyası olan bir üründen 48 tane alan bir kişi, bunların kaç tanesi için para ödemiş olur?",
+        "correct_answer":"32",
+        "incorrect1":"36",
+        "incorrect2":"30",
+        "incorrect3":"34"
+    },
+    {
+        "question" : "'Denizde dalga hoşgeldin abla’ sözünün geçtiği çocuk tekerlemesinde 'etek, bluz’ ifadesinden sonra bahsedilen turist hangi millettendir?",
+        "correct_answer":"İngiliz",
+        "incorrect1":"Japon",
+        "incorrect2":"Fransız",
+        "incorrect3":"Alman"
+    },
+    {
+        "question" : "Ailesinden 'Scottish Fold’ veya 'Siyam’ cinslerinden birini isteyen çocuk hangi hayvandan almak istemektedir?",
+        "correct_answer":"Kedi",
+        "incorrect1":"Tavşan",
+        "incorrect2":"Kuş",
+        "incorrect3":"Köpek"
+    },
+    {
+        "question" : "Belli bir yüksekliğe yatay olarak tutturulmuş çubuğa tutunup, kendini yukarı çekip çekip bırakan kişi, hangisini yapıyordur?",
+        "correct_answer":"Barfiks çekmek",
+        "incorrect1":"Mekik çekmek",
+        "incorrect2":"Kürek çekmek",
+        "incorrect3":"Şınav çekmek"
+    },
+    {
+        "question" : "Oyuncuların hakemi aldatmaya yönelik hareketten ceza aldıkları spor hangisidir?",
+        "correct_answer":"Futbol",
+        "incorrect1":"Golf",
+        "incorrect2":"Tenis",
+        "incorrect3":"Bilardo"
     }
 ]

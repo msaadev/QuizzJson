@@ -138,5 +138,33 @@
         "incorrect1":"Süzgeç",
         "incorrect2":" Su ısıtıcısı",
         "incorrect3":"Tost makinesi"
+    },
+    {
+        "question" : "Okullarda dünyanın şekli anlatılırken kullanılan klasik tanımda nereden basık olduğu söylenir?",
+        "correct_answer":"Kutuplardan",
+        "incorrect1":"Akarsulardan",
+        "incorrect2":" Dağlardan",
+        "incorrect3":"Ekvatordan"
+    },
+    {
+        "question" : "Hangi şeker adını şeklinin benzerliğinden değil, içindeki malzemeden alır?",
+        "correct_answer":"Kestane şekeri",
+        "incorrect1":"Fasulye şekeri",
+        "incorrect2":" Pamuk şekeri",
+        "incorrect3":"Horoz şekeri"
+    },
+    {
+        "question" : "'Soluk soluğa izleyeceksiniz, gözlerinizi ekrandan alamayacaksınız’ sözleriyle tanıtımı yapılan muhtemelen hangisidir?",
+        "correct_answer":"Macera filmi",
+        "incorrect1":"Bale gösterisi",
+        "incorrect2":" Modern sanat sergisi",
+        "incorrect3":"Klasik müzik konseri"
+    },
+    {
+        "question" : "Bir çocuk şarkısında, ona sorulan soruları, kulağı ve kuyruğu olmadığını, derede yüzdüğünü söyleyerek cevaplayan küçük kahraman hangi hayvandır?",
+        "correct_answer":"Kurbağa",
+        "incorrect1":"Kaplumbağa",
+        "incorrect2":" Karga",
+        "incorrect3":"Kertenkele"
     }
 ]
