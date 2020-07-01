@@ -155,10 +155,10 @@
     },
     {
         "question" : "'Orangutan Açılışı' ve 'Hipopotam Savunması' hangi oyunda kullanılan terimlerdir?",
-        "correct_answer":"İnci kefali",
-        "incorrect1":"Çizgili mercan",
-        "incorrect2":"Kedi balığı",
-        "incorrect3":"Aynalı sazan"
+        "correct_answer":"Satranç",
+        "incorrect1":"Go",
+        "incorrect2":"Briç",
+        "incorrect3":"Poker"
     },
     {
         "question" : "Olimpiyat oyunlarında hangi mesafede koşu yarışı düzenlenmemektedir?",
