@@ -166,5 +166,75 @@
         "incorrect1":"Market",
         "incorrect2":"Otopark",
         "incorrect3":"Stadyum"
+    },
+    {
+        "question" : "Birbirine çok benzeyen insanlar, hangisinin iki yarısı olduklarını söylerler?",
+        "correct_answer":"Elma",
+        "incorrect1":"Armut",
+        "incorrect2":"Kiraz",
+        "incorrect3":"Üzüm"
+    },
+    {
+        "question" : "'Bir İngiliz, bir Fransız, bir Alman’ şeklinde başlayan kısa hikayeler hangisinin bir örneğidir?",
+        "correct_answer":"Fıkra",
+        "incorrect1":"Makale",
+        "incorrect2":"Deneme",
+        "incorrect3":"Destan"
+    },
+    {
+        "question" : "Para hesabı yapmasını bilmeyen çocuklar genellikle hangi dükkana girip, 'Buna ne olur?' diye sorarlar?",
+        "correct_answer":"Bakkal",
+        "incorrect1":"Kasap",
+        "incorrect2":"Terzi",
+        "incorrect3":"Manav"
+    },
+    {
+        "question" : "Birisi için fedakârca çalıştığını belirtmek isteyen kişi ona hangisini söyler?",
+        "correct_answer":"Saçımı süpürge ettim",
+        "incorrect1":"Kulağıma küpe ettim",
+        "incorrect2":"Dilime pelesenk ettim",
+        "incorrect3":"Aklıma not ettim"
+    },
+    {
+        "question" : "Öğretmenler sözlü yaparken bir soruyu bilemeyen öğrencisine 'sıfır’ demeden önce hangisini söylerler?",
+        "correct_answer":"Otur",
+        "incorrect1":"Sürün",
+        "incorrect2":"Kalk",
+        "incorrect3":"Kaç"
+    },
+    {
+        "question" : "'Gözlerin lens mi?' sorusu genellikle kimlere sorulur?",
+        "correct_answer":"Gözleri renkli olanlara",
+        "incorrect1":"Gözlük kullanlamayanlara",
+        "incorrect2":"Gözleri büyük olanlara",
+        "incorrect3":"Kirpikleri uzun olanlara"
+    },
+    {
+        "question" : "'Benimki çift kaşarlı olsun’ diyen biri ne istemektedir?",
+        "correct_answer":"Tost",
+        "incorrect1":"Börek",
+        "incorrect2":"Omlet",
+        "incorrect3":"Hamburger"
+    },
+    {
+        "question" : "Film ve karikatürlerde 'Merhaba dünyalı, biz dostuz’ ifadesini kullanan genellikle kimler olur?",
+        "correct_answer":"Uzaylılar",
+        "incorrect1":"Cadılar",
+        "incorrect2":"Kovboylar",
+        "incorrect3":"Vampirler"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

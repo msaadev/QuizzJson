@@ -173,5 +173,75 @@
         "incorrect1":"Baron",
         "incorrect2":"Mösyö",
         "incorrect3":"Dük"
+    },
+    {
+        "question" : "'Unison, glissando ve partisyon’ hangi sanat dalına ait terimlerdir?",
+        "correct_answer":"Müzik",
+        "incorrect1":"Resim",
+        "incorrect2":"Heykel",
+        "incorrect3":"Tiyatro"
+    },
+    {
+        "question" : "Hangi ikisi birbirinin aynısı olan ancak farklı isimle anılan yiyecek veya içeceklerdir?",
+        "correct_answer":"Antep Fıstığı-Şam Fıstığı",
+        "incorrect1":"Darı-İrmik",
+        "incorrect2":"Nane-Reyhan",
+        "incorrect3":"Soda-Maden Suyu"
+    },
+    {
+        "question" : "Hangi masal kahramanı seyahat ederken halı kullanır?",
+        "correct_answer":"Alaaddin",
+        "incorrect1":"Külkedisi",
+        "incorrect2":"Rapunzel",
+        "incorrect3":"Ali Baba"
+    },
+    {
+        "question" : "Köy muhtarları kaç yıllığına seçilir?",
+        "correct_answer":"5",
+        "incorrect1":"3",
+        "incorrect2":"7",
+        "incorrect3":"6"
+    },
+    {
+        "question" : "Lüküs Hayat müzikalinin ünlü şarkısında adı geçen 'apartıman’ın İstanbul’ın hangi semtinde olduğu söylenmektedir?",
+        "correct_answer":"Şişli",
+        "incorrect1":"Moda",
+        "incorrect2":"Bebek",
+        "incorrect3":"Taksim"
+    },
+    {
+        "question" : "5 dakika koşup, 10 dakika dinlenerek antrenman yapan bir sporcu, 2,5 saatte toplam kaç dakika koşmuş olur?",
+        "correct_answer":"50",
+        "incorrect1":"30",
+        "incorrect2":"40",
+        "incorrect3":"60"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

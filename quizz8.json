@@ -166,6 +166,41 @@
         "incorrect1":"10000 m",
         "incorrect2":"1500 m",
         "incorrect3":"800 m"
+    },
+    {
+        "question" : "'Sıfır puan’ anlamına gelen 'love’ terimi hangi spor dalında kullanılmaktadır?",
+        "correct_answer":"Tenis",
+        "incorrect1":"Su balesi",
+        "incorrect2":"Buz pateni",
+        "incorrect3":"Eskrim"
+    },
+    {
+        "question" : "Hangi fare türünün beyaz renkli olanları laboratuvarlarda deney faresi olarak kullanılır?",
+        "correct_answer":"Ev faresi",
+        "incorrect1":"Fındık faresi",
+        "incorrect2":"Tarla faresi",
+        "incorrect3":"Firavun faresi"
+    },
+    {
+        "question" : "'En büyük hayalim Mauna Kea Gözlemevine gitmek’ diyen bir astronomi hayranı nereye uçak bileti almalıdır?",
+        "correct_answer":"Hawaii",
+        "incorrect1":"Madagaskar",
+        "incorrect2":"Tayvan",
+        "incorrect3":"Sri Lanka"
+    },
+    {
+        "question" : "Hangi isimde bir meyve yoktur?",
+        "correct_answer":"Hint muzu",
+        "incorrect1":"Hint armudu",
+        "incorrect2":"Hint kirazı",
+        "incorrect3":"Hint inciri"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 
 ]

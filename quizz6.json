@@ -166,5 +166,75 @@
         "incorrect1":"Kişisel Numara Kaydı",
         "incorrect2":"Kişisel İsim Kaydı",
         "incorrect3":"Yolcu Sayısı Kaydı"
+    },
+    {
+        "question" : "Pilotların uçuş tecrübeleri hangi ölçü birimiyle ifade edilir?",
+        "correct_answer":"Saat",
+        "incorrect1":"Kilometre",
+        "incorrect2":"Mil",
+        "incorrect3":"Feet"
+    },
+    {
+        "question" : "Geleneksel bir Orta Doğu yemeği olan 'falafel’ temel olarak hangisinden yapılır?",
+        "correct_answer":"Nohut",
+        "incorrect1":"Mercimek",
+        "incorrect2":"Pirinç",
+        "incorrect3":"Soya"
+    },
+    {
+        "question" : "Birbirine bağlanmak istenen ağaç veya demir parçaların üzerindeki deliklerden geçirilip ucuna somun takılarak sıkıştırılan iri başlı vidaya ne ad verilir?",
+        "correct_answer":"Cıvata",
+        "incorrect1":"Conta",
+        "incorrect2":"Dübel",
+        "incorrect3":"Tornavida"
+    },
+    {
+        "question" : "'Çayır ve keçi’ hangi yiyeceğin türleridir?",
+        "correct_answer":"Mantar",
+        "incorrect1":"Biber",
+        "incorrect2":"Kabak",
+        "incorrect3":"Turp"
+    },
+    {
+        "question" : "Normal şartlar altında, Türkiye’de Süper Lig’deki bir futbol takımı, bir sezonda en fazla kaç puan toplayabilir?",
+        "correct_answer":"102",
+        "incorrect1":"90",
+        "incorrect2":"96",
+        "incorrect3":"112"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

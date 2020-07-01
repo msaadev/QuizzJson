@@ -173,5 +173,75 @@
         "incorrect1":"İki inatçı kedi",
         "incorrect2":"İki küçük çocuk",
         "incorrect3":"İki eski dost"
+    },
+    {
+        "question" : "Kollarınızı yanınızdakilerin omuzlarına atmışsanız, onlar da kollarını hem sizin hem diğer yandakilerin omuzlarına atmışlarsa hangi dansı yapıyorsunuzdur?",
+        "correct_answer":"Halay",
+        "incorrect1":"Tango",
+        "incorrect2":"Vals",
+        "incorrect3":"Çaydaçıra"
+    },
+    {
+        "question" : "Tezgahtar hangisini söylüyorsa balık sattığını anlarsınız?",
+        "correct_answer":"Derya kuzusu bunlar",
+        "incorrect1":"Batan geminin malları bunlar",
+        "incorrect2":"At duvara kaç kenara",
+        "incorrect3":"Kesmece bunlar"
+    },
+    {
+        "question" : "Düğünlerde gelin arabası süslerken ön ve arka plakaya yazılan en standart ifadeler hangileri olur?",
+        "correct_answer":"Evleniyoruz-Mutluyuz",
+        "incorrect1":"Geldik-Gidiyoruz",
+        "incorrect2":"İnandık-Başardık",
+        "incorrect3":"Aldık-Kaçtık"
+    },
+    {
+        "question" : "Alışveriş merkezlerinde araç kontrolü sırasında güvenlik görevlileri genellikle hangi soruyu sorarlar?",
+        "correct_answer":"Lütfen bagajı açar mısınız?",
+        "incorrect1":"Bir tur atabilir miyim?",
+        "incorrect2":"Beni de alır mısınız?",
+        "incorrect3":"Ne almaya geldiniz?"
+    },
+    {
+        "question" : "Restoranlarda daha önceden ayırtılmış masalarda hangisi yazar?",
+        "correct_answer":"Rezerve",
+        "incorrect1":"Satıldı",
+        "incorrect2":"Dolu",
+        "incorrect3":"Sahibi var"
+    },
+    {
+        "question" : "Hangisi bilgisayarlarda sıkça kullanılan komutlardan biri değildir?",
+        "correct_answer":"Çaldır kapat",
+        "incorrect1":"Sürükle bırak",
+        "incorrect2":"Kaydet çık",
+        "incorrect3":"Kopyala yapıştır"
+    },
+    {
+        "question" : "Saklambaç oyununda ebe olan kişi, 'önüm, arkam, sağım, solum sobe’ dedikten sonra, en son hangisini söyler?",
+        "correct_answer":"Saklanmayan ebe",
+        "incorrect1":"Yağ satarım bal satarım",
+        "incorrect2":"Bir iki üç tıp",
+        "incorrect3":"Çanak çömlek patladı"
+    },
+    {
+        "question" : "Ortaokul ve liselerde, birkaç veliden oluşan, okul hakkında yararlı kararların alındığı toplantılar yapan kurula ne ad verilir?",
+        "correct_answer":"Okul Aile Birliği",
+        "incorrect1":"İhtiyar Heyeti",
+        "incorrect2":"Öğrenci Divanı",
+        "incorrect3":"Teftiş Kurulu"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

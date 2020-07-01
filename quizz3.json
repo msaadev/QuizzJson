@@ -166,5 +166,82 @@
         "incorrect1":"Kaplumbağa",
         "incorrect2":" Karga",
         "incorrect3":"Kertenkele"
+    },
+    {
+        "question" : "Rakibi rahatsız etmek için söylenen çocuk tekerlemesinde 'yendik şişirdik’ dendikten sonra yapılıp pişirildiği söylenen yemek hangisidir?",
+        "correct_answer":"Dolma",
+        "incorrect1":"Çorba",
+        "incorrect2":"Pasta",
+        "incorrect3":"Börek"
+    },
+    {
+        "question" : "Hangisi 'sağlam ve çevik kimse’ anlamında kullanılan bir sözdür?",
+        "correct_answer":"Tığ gibi",
+        "incorrect1":"Tüy gibi",
+        "incorrect2":"Kül gibi",
+        "incorrect3":"Su gibi"
+    },
+    {
+        "question" : "Halk arasında kimler için 'suya götürür, susuz getirir’ denir?",
+        "correct_answer":"Deneyimli ve kurnaz kişiler",
+        "incorrect1":"Sağlıklı ve mutlu kişiler",
+        "incorrect2":"Güçlü ve dayanıklı kişiler",
+        "incorrect3":"Hırslı ve atılgan kişiler"
+    },
+    {
+        "question" : "Giysiler için kullanılan 'mevsimlik’ ifadesiyle kastedilen iki mevsim hangileridir?",
+        "correct_answer":"İlkbahar-Sonbahar",
+        "incorrect1":"İlkbahar-Yaz",
+        "incorrect2":"Sonbahar-Kış",
+        "incorrect3":"Yaz-Kış"
+    },
+    {
+        "question" : "Sosyal medyadaki yazışmalarda duygu durumunu anlatmak için kullanılan ve yüz mimiklerini temsil eden sembollere ne ad verilir?",
+        "correct_answer":"Emoji",
+        "incorrect1":"Caps",
+        "incorrect2":"Poke",
+        "incorrect3":"Hashtag"
+    },
+    {
+        "question" : "Ayakkabı giymeyi kolaylaştıran çekeceğin diğer adı nedir?",
+        "correct_answer":"Kerata",
+        "incorrect1":"Havya",
+        "incorrect2":"Şiraze",
+        "incorrect3":"Alyan"
+    },
+    {
+        "question" : "Akrabaları arasında belli bir mesleği yapan kişilerden çok sayıda olanlar, o meslek için hangi ifadeyi kullanırlar?",
+        "correct_answer":"Aile mesleği",
+        "incorrect1":"Serbest meslek",
+        "incorrect2":"Ata sporu",
+        "incorrect3":"Bayrak yarışı"
+    },
+    {
+        "question" : "Hangi tatlı genellikle sıcak servis edilir?",
+        "correct_answer":"Künefe",
+        "incorrect1":"Güllaç",
+        "incorrect2":"Cezerye",
+        "incorrect3":"Keşkül"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

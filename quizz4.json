@@ -173,5 +173,75 @@
         "incorrect1":"Golf",
         "incorrect2":"Tenis",
         "incorrect3":"Bilardo"
+    },
+    {
+        "question" : "'Çift anadal yapıyorum’ diyen bir öğrenci için hangisi söylenebilir?",
+        "correct_answer":"2 lisans bölümünde okuyordur",
+        "incorrect1":"Okulunu uzatmıştır",
+        "incorrect2":"Yüksek lisans ve master yapıyordur",
+        "incorrect3":"2 farklı üniversitede okuyordur"
+    },
+    {
+        "question" : "'Maden’, 'Sürü', 'Pehlivan’ gibi filmlerle 7 Altın Portakal kazanmış, Yeşilçam’ın 'Damat Ferit’i kimdir?",
+        "correct_answer":"Tarık Akan",
+        "incorrect1":"Ekrem Bora",
+        "incorrect2":"Tanju Gürsu",
+        "incorrect3":"Tuncel Kurtiz"
+    },
+    {
+        "question" : "Görme engelli kişiler için üretilen ve yön bulmalarını sağlayan kabartmalı taşlar genellikle ne renktir?",
+        "correct_answer":"Sarı",
+        "incorrect1":"Kırmızı",
+        "incorrect2":"Yeşil",
+        "incorrect3":"Mavi"
+    },
+    {
+        "question" : "Sırt sırta verip kollarını iki yana açan kişiden, birinin sol kolu kuzeyi gösteriyorsa diğerinin sağ kolu hangi yönü gösterir?",
+        "correct_answer":"Kuzey",
+        "incorrect1":"Doğu",
+        "incorrect2":"Güney",
+        "incorrect3":"Batı"
+    },
+    {
+        "question" : "'Köşe gönderi’ hangi sporla ilgili bir terimdir?",
+        "correct_answer":"Futbol",
+        "incorrect1":"Tenis",
+        "incorrect2":"Voleybol",
+        "incorrect3":"Basketbol"
+    },
+    {
+        "question" : "'Hünkârbeğendi’ pişirmek için mutfağa girdiğinizde hangi malzemeye ihtiyacınız olmaz?",
+        "correct_answer":"Bulgur",
+        "incorrect1":"Süt",
+        "incorrect2":"Patlıcan",
+        "incorrect3":"Un"
+    },
+    {
+        "question" : "Hangisi cilt üzerindeki ölü hücrelerin temizlenerek dışarı atılmasını sağlayan bir işlemdir?",
+        "correct_answer":"Peeling",
+        "incorrect1":"Liposuction",
+        "incorrect2":"Akupunktur",
+        "incorrect3":"Botoks"
+    },
+    {
+        "question" : "'Dörtlüleri yak’ denildiğinde otomobildeki hangi parça kastedilir?",
+        "correct_answer":"Flaşör",
+        "incorrect1":"Reflektör",
+        "incorrect2":"Selektör",
+        "incorrect3":"Karbüratör"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]

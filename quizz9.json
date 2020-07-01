@@ -140,10 +140,38 @@
         "incorrect3":"Pearl Jam"
     },
     {
-        "question" : "Hangisi “Selvi Boylum Al Yazmalım” filminin sonunda Türkan Şoray’ın canlandırdığı Asya’nın, “Sevgi neydi?” sorusuna vermiş olduğu 3 cevaptan biri değildir?",
-        "correct_answer":"Sabırdı",
-        "incorrect1":"İyilikti",
-        "incorrect2":"Emekti",
-        "incorrect3":"Dostluktu"
+        "question" : "'Harry Potter’ kitap serisinin yazarı JK Rowling’e kitabın müzikalini yapmak için başvuran ve Rowling tarafından reddedilen kişi kimdir?",
+        "correct_answer":"Michael Jackson",
+        "incorrect1":"Bono",
+        "incorrect2":"Madonna",
+        "incorrect3":"Elton John"
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
+    },
+    {
+        "question" : "",
+        "correct_answer":"",
+        "incorrect1":"",
+        "incorrect2":"",
+        "incorrect3":""
     }
 ]
