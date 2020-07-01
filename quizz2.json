@@ -231,17 +231,59 @@
         "incorrect3":"Teftiş Kurulu"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Küçük çocuklar treni ifade etmek için hangi sözü kullanırlar?",
+        "correct_answer":"Çuf çuf",
+        "incorrect1":"Fış fış",
+        "incorrect2":"Pır pır",
+        "incorrect3":"Dıgıdık dıgıdık"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "İyi bir durumun kaynağını fazla araştırmamak gerektiğini belirten ve 'üzümünü ye’ şeklinde başlayan sözün devamı nasıldır?",
+        "correct_answer":"Bağını sorma",
+        "incorrect1":"Hayrını gör",
+        "incorrect2":"Suyunu iç",
+        "incorrect3":"Çöpünü atma"
+    },
+    {
+        "question" : "Kovboy filmlerindeki haydutlar uzaktaki trenin yaklaşmakta olduğunu nasıl anlarlar?",
+        "correct_answer":"Rayları dinleyerek",
+        "incorrect1":"Kuşların uçuşuna bakarak",
+        "incorrect2":"Parmak ıslatıp havada tutarak",
+        "incorrect3":"Elleriyle kulaklarını çevirerek"
+    },
+    {
+        "question" : "'7 kg kapasiteli, 1500 devirli ve kısa programlı' diyerek ürünü anlatan bir satıcı muhtemelen ne satıyordur?",
+        "correct_answer":"Çamaşır makinesi",
+        "incorrect1":"Elektrikli diş fırçası",
+        "incorrect2":"Fırın",
+        "incorrect3":"Ütü"
+    },
+    {
+        "question" : "Sokakta aynı tezgahta hem közlenmiş hem de haşlanmış halde satılabilen yiyecek hangisidir?",
+        "correct_answer":"Mısır",
+        "incorrect1":"Kestane",
+        "incorrect2":"Simit",
+        "incorrect3":"Badem"
+    },
+    {
+        "question" : "Yazlıktaysanız ve büyükannneniz sırtınıza yoğurt sürmeye çalışıyorsa hangi konuda şikayetiniz vardır?",
+        "correct_answer":"Güneş yanığı",
+        "incorrect1":"Öksürük",
+        "incorrect2":"Boyun tutulması",
+        "incorrect3":"Hıçkırık"
+    },
+    {
+        "question" : "Maraş dondurması satan nostaljik dondurmacılar, sipariş hazırlarken genellikle hangisine vurarak ses çıkarırlar?",
+        "correct_answer":"Çan",
+        "incorrect1":"Gong",
+        "incorrect2":"Darbuka",
+        "incorrect3":"Davul"
+    },
+    {
+        "question" : "Çocuklar kumsalda oynarken genellikle kumdan hangisini yapmayı severler?",
+        "correct_answer":"Kale",
+        "incorrect1":"Köprü",
+        "incorrect2":"Ağaç",
+        "incorrect3":"Şato"
     }
 ]

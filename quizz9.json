@@ -147,31 +147,24 @@
         "incorrect3":"Elton John"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "1957'den beri devam eden bir uygulamaya göre hangi ülkede ressamlar, vergi borçlarını eserleriyle ödeyebilmektedirler?",
+        "correct_answer":"Meksika",
+        "incorrect1":"Finlandiya",
+        "incorrect2":"Küba",
+        "incorrect3":"Japonya"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Geçtiğimiz yıllarda yeniden hizmete giren, 1968 Türk yapımı ilk troleybüsün adı nedir?",
+        "correct_answer":"Tosun",
+        "incorrect1":"Tazı",
+        "incorrect2":"Pehlivan",
+        "incorrect3":"Koç"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
-    },
-    {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Napster’in kurucusunun düğününe katılması için hangi karakterin oyuncusuna karakterin kostümüyle düğüne katılması için 1,5 milyon teklif edilmiş ancak kabul edilmemiştir?",
+        "correct_answer":"Gandalf",
+        "incorrect1":"Neo",
+        "incorrect2":"Achilles",
+        "incorrect3":"Jon Snow"
     }
 ]

@@ -168,32 +168,39 @@
         "incorrect3":"Esir Şehrin İnsanları"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Tolstoy’un 'Savaş ve Barış' romanında Rusya’nın hangisine karşı savaşından bahsedilir?",
+        "correct_answer":"Fransa",
+        "incorrect1":"İngiltere",
+        "incorrect2":"Osmanlı Devleti",
+        "incorrect3":"Japonya"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "15 Temmuz’da Özel Kuvvetler Komutanlığı'nı ele geçirmeye çalışan hainlere ilk kurşunu sıkarak şehit olan Ömer Halisdemir’in adı hangi üniversiteye verilmiştir?",
+        "correct_answer":"Niğde Üniversitesi",
+        "incorrect1":"Ardahan Üniversitesi",
+        "incorrect2":"Uşak Üniversitesi",
+        "incorrect3":"Kastamonu Üniversitesi"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "'Kirazın Tadı' filmiyle 1997'de Cannes’da Altın Palmiye kazanan İranlı yönetmen kimdir?",
+        "correct_answer":"Abbas Kiarostami",
+        "incorrect1":"Majid Majidi",
+        "incorrect2":"Cafer Penahi",
+        "incorrect3":"Asghar Farhadi"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Son yazdığı eser 'Hastalık Hastası' olan, sahnede başrol oynarken rahatsızlanıp ölen yazar kimdir?",
+        "correct_answer":"Moliere",
+        "incorrect1":"Voltaire",
+        "incorrect2":"Dante",
+        "incorrect3":"Balzac"
+    },
+    {
+        "question" : "'Yusuf Üçlemesi’ olarak da bilinen 'Yumurta’, 'Süt’ ve 'Bal’ filmlerinin yönetmeni kimdir?",
+        "correct_answer":"Semih Kaplanoğlu",
+        "incorrect1":"Ferzan Özpetek",
+        "incorrect2":"Yeşim Ustaoğlu",
+        "incorrect3":"Çağan Irmak"
     }
 
 ]

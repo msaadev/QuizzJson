@@ -196,11 +196,25 @@
         "incorrect3":"Hint inciri"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "'İzzetinefis’in anlamı nedir?",
+        "correct_answer":"Kişinin düşkün olduğu şey",
+        "incorrect1":"Kişiyi en çok kızdıran şey",
+        "incorrect2":"Kişinin birine olan ilgisi",
+        "incorrect3":"Kişinin kendine olan saygısı"
+    },
+    {
+        "question" : "Hangi spor dalı bugüne dek Olimpiyat oyunlarında yer almamıştır?",
+        "correct_answer":"Karate",
+        "incorrect1":"Judo",
+        "incorrect2":"Tekvando",
+        "incorrect3":"Boks"
+    },
+    {
+        "question" : "George Orwell’in “Avrupada’ki Son Adam” adıyla yazdığı, basılırken pazarlamaya yönelik nedenlerle günümüzdeki adıyla değiştirilen romanı hangisidir?",
+        "correct_answer":"1984",
+        "incorrect1":"Paris ve Londra'da Beş Parasız",
+        "incorrect2":"Hayvan Çiftliği",
+        "incorrect3":"Aspidistra"
     }
 
 ]

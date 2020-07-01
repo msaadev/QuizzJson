@@ -203,38 +203,45 @@
         "incorrect3":"112"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Çıktığı Doğu Karadeniz turunda “Uzungöl’e ve Ayder Yaylası'na gittim” diyen biri, hangi illeri gezmiş demektir?",
+        "correct_answer":"Trabzon-Rize",
+        "incorrect1":"Artvin-Giresun",
+        "incorrect2":"Giresun-Trabzon",
+        "incorrect3":"Rize-Gümüşhane"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Hamamlarda örtünmek için kullanılan ince kumaşın isminin doğru yazılışı hangisidir?",
+        "correct_answer":"Peştamal",
+        "incorrect1":"Peştemal",
+        "incorrect2":"Peşdemal",
+        "incorrect3":"Peşdamal"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Hangi iki kelimenin anlamı aynıdır?",
+        "correct_answer":"Tanı ve teşhis",
+        "incorrect1":"Teşhis ve tedavi",
+        "incorrect2":"Tedavi ve semptom",
+        "incorrect3":"Tanı ve semptom"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Olimpik triatlonda sporcular hangi dallarda yarışır?",
+        "correct_answer":"Yüzme-Bisiklet-Koşu",
+        "incorrect1":"Yüksek atlama-Koşu-Uzun atlama",
+        "incorrect2":"Koşu-Atıcılık-Kayak",
+        "incorrect3":"Cirit-Gülle-Disk"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Teoman’ın hangi şarkısında, şarkıya adını veren kelime 40 defa tekrarlanır?",
+        "correct_answer":"Onyedi",
+        "incorrect1":"Paramparça",
+        "incorrect2":"Gönülçelen",
+        "incorrect3":"Papatya"
+    },
+    {
+        "question" : "Yük taşımak için yapılan özel gemiye ne ad verilir?",
+        "correct_answer":"Şilep",
+        "incorrect1":"Katamaran",
+        "incorrect2":"Gulet",
+        "incorrect3":"Fırkateyn"
     }
 ]

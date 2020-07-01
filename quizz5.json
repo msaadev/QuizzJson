@@ -217,31 +217,38 @@
         "incorrect3":"60"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Gösterişsiz, sade yaşamaktan yana olan, alçak gönüllü kişiler için kullanılan kelime hangisidir?",
+        "correct_answer":"Kalender",
+        "incorrect1":"Mukadder",
+        "incorrect2":"Mağrur",
+        "incorrect3":"Kadim"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Spor amacıyla yürüyen kişilerin gittikleri mesafeyi ölçmek için kullandıkları, Türkçesi 'adımsayar’ olan alet hangisidir?",
+        "correct_answer":"Pedometre",
+        "incorrect1":"Takometre",
+        "incorrect2":"Kardiometre",
+        "incorrect3":"Lüksmetre"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "'Redingot’ giydiğini söyleyen biri hangi tür kıyafet giymiş demektir?",
+        "correct_answer":"Ceket",
+        "incorrect1":"Pantolon",
+        "incorrect2":"Gömlek",
+        "incorrect3":"Şapka"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Parlak altın rengindeki ayakkabıların ve kıyafetlerin rengine verilen isim hangisidir?",
+        "correct_answer":"Dore",
+        "incorrect1":"Haki",
+        "incorrect2":"Fuşya",
+        "incorrect3":"Bronz"
+    },
+    {
+        "question" : "Reklamlarda eve gelen çamaşır makinesi tamircilerinin kireçlendiğini gösterdikleri parçanın adının doğru yazılışı hangisidir?",
+        "correct_answer":"Rezistans",
+        "incorrect1":"Resiztanz",
+        "incorrect2":"Residence",
+        "incorrect3":"Redizstans"
     }
 ]

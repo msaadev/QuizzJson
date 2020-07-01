@@ -224,24 +224,59 @@
         "incorrect3":"Keşkül"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Süpermarketlerde ürün sayısı kısıtlaması olan hızlı kasalara genellikle ne ad verilir?",
+        "correct_answer":"Ekspres kasa",
+        "incorrect1":"VIP kasa",
+        "incorrect2":"Acil kasa",
+        "incorrect3":"Özel kasa"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "'O piti piti’ şeklinde başlayan çocuk tekerlemesinde, 'biz sie geldik bitlendik’ diyen çocuklar nereye gidip temizlendiklerini söylerler?",
+        "correct_answer":"Hamama",
+        "incorrect1":"Banyoya",
+        "incorrect2":"Saunaya",
+        "incorrect3":"Kaplıcaya"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Etrafındaki turistlerin yıkılmasını engelliyormuş gibi pozlar vererek, fotoğraf çektirdikleri tarihi yapı hangisidir?",
+        "correct_answer":"Pisa Kulesi",
+        "incorrect1":"Özgürlük Anıtı",
+        "incorrect2":"Kurtarıcı İsa Heykeli",
+        "incorrect3":"Giza Piramidi"
+    },
+    {
+        "question" : "Tavuk satan fast food restoranlarında büyük menüler genellikle hangisinin adıyla anılır?",
+        "correct_answer":"Kova",
+        "incorrect1":"Sepet",
+        "incorrect2":"Varil",
+        "incorrect3":"Tanker"
+    },
+    {
+        "question" : "Hangisi çocuk oyun parkında görebileceğiniz oyuncaklardan biri değildir?",
+        "correct_answer":"Tramplen",
+        "incorrect1":"Salıncak",
+        "incorrect2":"Kaydırak",
+        "incorrect3":"Tahterevalli"
+    },
+    {
+        "question" : "'Birisiyle boy ölçüşmek’ hangi sözle ifade edilir?",
+        "correct_answer":"Aşık atmak",
+        "incorrect1":"İmza atmak",
+        "incorrect2":"Can atmak",
+        "incorrect3":"Havlu atmak"
+    },
+    {
+        "question" : "Kovalamaca oynarken söylenen çocuk tekerlemesinde tazının tutmaya çalıştığı hayvan hangisidir?",
+        "correct_answer":"Tavşan",
+        "incorrect1":"Ceylan",
+        "incorrect2":"Kaplan",
+        "incorrect3":"Fare"
+    },
+    {
+        "question" : "Kenardaki antrenör karşılaşmadaki sporcuya 'gardını düşürme’ diyorsa, hangi spora ait bir müsabaka izliyorsunuz demektir?",
+        "correct_answer":"Boks",
+        "incorrect1":"Güreş",
+        "incorrect2":"Halter",
+        "incorrect3":"Tenis"
     }
 ]

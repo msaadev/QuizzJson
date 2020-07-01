@@ -224,17 +224,59 @@
         "incorrect3":"Vampirler"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Türk kahvesinin yanında hangisinin servis edilmesi adettendir?",
+        "correct_answer":"Su",
+        "incorrect1":"Şalgam",
+        "incorrect2":"Ayran",
+        "incorrect3":"Limonata"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Halk arasında işe yarar, önemli ve yerinde olan şeylerin hangisine dokunur olduğundan bahsedilir?",
+        "correct_answer":"Dişe",
+        "incorrect1":"Göze",
+        "incorrect2":"Dile",
+        "incorrect3":"Dize"
+    },
+    {
+        "question" : "'Eli açık’ olduğu söylenen birinin öne çıkan özelliği hangisidir?",
+        "correct_answer":"Cömertlik",
+        "incorrect1":"Kibarlık",
+        "incorrect2":"Dürüstlük",
+        "incorrect3":"Kurnazlık"
+    },
+    {
+        "question" : "Filmlerde savaşta öldüğü zannedilen ama yıllar sonra evine dönen genç genellikle hangisinin olduğunu öğrenerek sarsılır?",
+        "correct_answer":"Sevgilisinin evlendiğini",
+        "incorrect1":"Spor salonunun kapandığını",
+        "incorrect2":"Köpeğinin doğurduğunu",
+        "incorrect3":"Bahçesinin otopark olduğunu"
+    },
+    {
+        "question" : "Eskiden okullar başlarken yapılması zorunlu olan hangi iş öğrencilerin ve velilerin korkulu rüyası haline gelirdi?",
+        "correct_answer":"Defter kitap kaplamak",
+        "incorrect1":"Şarkı ezberlemek",
+        "incorrect2":"Şiir yazmak",
+        "incorrect3":"Spor salonuna yazılmak"
+    },
+    {
+        "question" : "Develerin tellal olduğu dönemleri anlatan masal tekerlemesinde pirelerin mesleği nedir?",
+        "correct_answer":"Berber",
+        "incorrect1":"Terzi",
+        "incorrect2":"Marangoz",
+        "incorrect3":"Kasap"
+    },
+    {
+        "question" : "Filmlerde yelkenli gemilerin direğinin üstünde gözcülük yapan denizci genelliklen nasıl bağırır?",
+        "correct_answer":"Kara göründü",
+        "incorrect1":"Yazıyor yazıyor",
+        "incorrect2":"İleride çevirme var",
+        "incorrect3":"Dikkat dikkat"
+    },
+    {
+        "question" : "Çok neşeli olan ve kendini iyi hisseden kişilerin neresinde güller açtığı söylenir?",
+        "correct_answer":"Yüzünde",
+        "incorrect1":"Elinde",
+        "incorrect2":"Başında",
+        "incorrect3":"Ağzında"
     }
 ]

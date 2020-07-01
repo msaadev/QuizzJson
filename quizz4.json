@@ -231,17 +231,45 @@
         "incorrect3":"Karbüratör"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Ünlü çocuk masalının adında geçen ağlayan nara eşlik eden ayva ne yapmaktadır?",
+        "correct_answer":"Gülmektedir",
+        "incorrect1":"Çalışmaktadır",
+        "incorrect2":"Düşünmektedir",
+        "incorrect3":"Uyumaktadır"
     },
     {
-        "question" : "",
-        "correct_answer":"",
-        "incorrect1":"",
-        "incorrect2":"",
-        "incorrect3":""
+        "question" : "Kollarını yukarı kaldırıp iki yana açan ve elleriyle pençe taklidi yaparak poz veren kişiler hangi takımın taraftarlarıdır?",
+        "correct_answer":"Beşiktaş",
+        "incorrect1":"Galatasaray",
+        "incorrect2":"Fenerbahçe",
+        "incorrect3":"Trabzonspor"
+    },
+    {
+        "question" : "'Hakem avantaja bıraktı' yorumunu hangi spor karşılaşmasını izlerken duyabilirsiniz?",
+        "correct_answer":"Futbol",
+        "incorrect1":"Boks",
+        "incorrect2":"Basketbol",
+        "incorrect3":"Güreş"
+    },
+    {
+        "question" : "Kapı ve pencere kenarlıklarına ne ad verilir?",
+        "correct_answer":"Pervaz",
+        "incorrect1":"Aplik",
+        "incorrect2":"Trabzan",
+        "incorrect3":"Süpürgelik"
+    },
+    {
+        "question" : "Bir dönemin çok izlenen televizyon dizisinde sorunları çözen akıllı ve yardımsever yunusun adı nedir?",
+        "correct_answer":"Flipper",
+        "incorrect1":"Lassie",
+        "incorrect2":"Spike",
+        "incorrect3":"Denver"
+    },
+    {
+        "question" : "Etek ve ceketten oluşan kadın giysisine ne ad verilir?",
+        "correct_answer":"Döpiyes",
+        "incorrect1":"Gabardin",
+        "incorrect2":"Kruvaze",
+        "incorrect3":"Jile"
     }
 ]
