@@ -271,5 +271,81 @@
         "incorrect1":"Gabardin",
         "incorrect2":"Kruvaze",
         "incorrect3":"Jile"
+    },{
+        "question" : "0–0 devam eden bir futbol maçı hükmen kazanıldıysa maç skoru ne olur?",
+        "correct_answer":"3-0",
+        "incorrect1":"1-0",
+        "incorrect2":"2-0",
+        "incorrect3":"4-0"
+    },
+    {
+        "question" : "Televizyondaki spiker 'aparkat’ terimini kullanıyorsa hangi spora ait bir müsabaka izliyorsunuzdur?",
+        "correct_answer":"Boks",
+        "incorrect1":"Tenis",
+        "incorrect2":"Bilardo",
+        "incorrect3":"Güreş"
+    },
+    {
+        "question" : "Peynir helvası yiyip, Aynalı Çarşı'yı geziyorsanız ve şehrin karşı yakasına geçmek için feribot beklemeniz gerekiyorsa neredesinizdir?",
+        "correct_answer":"Çanakkale",
+        "incorrect1":"Bursa",
+        "incorrect2":"Tekirdağ",
+        "incorrect3":"Adapazarı"
+    },
+    {
+        "question" : "Hangisi uçak kalkışı sırasında zorunlu olarak yapılması söylenen şeylerden değildir?",
+        "correct_answer":"Gözlüklerin çıkarılması",
+        "incorrect1":"Güneşliklerin açılması",
+        "incorrect2":"Emniyet kemerinin takılması",
+        "incorrect3":"Koltukların dik hale getirilmesi"
+    },
+    {
+        "question" : "Özellikle İzmir ile özdeşleşmiş 'boyoz’ hangisinin bir türüdür?",
+        "correct_answer":"Hamur işi",
+        "incorrect1":"Kebap",
+        "incorrect2":"Çorba",
+        "incorrect3":"Pilav"
+    },
+    {
+        "question" : "En popüler internet alan adı uzantısı olan 'com’ hangi kelimenin İngilizcesinin kısaltmasıdır?",
+        "correct_answer":"Ticari",
+        "incorrect1":"Ortak",
+        "incorrect2":"Kurumsal",
+        "incorrect3":"İletişim"
+    },
+    {
+        "question" : "Annesi 28 yaşındayken doğan birinin kardeşiyle arasında 7 yaş fark varsa, annesi 55 yaşındayken kardeşi kaç yaşında olur?",
+        "correct_answer":"20",
+        "incorrect1":"15",
+        "incorrect2":"25",
+        "incorrect3":"30"
+    },
+    {
+        "question" : "Plaj voleybolunda takımlar kaçar kişiden oluşur?",
+        "correct_answer":"2",
+        "incorrect1":"4",
+        "incorrect2":"5",
+        "incorrect3":"6"
+    },
+    {
+        "question" : "Standart bir bilgisayar klavyesindeki alan olarak en çok yer kaplayan tuş ne işe yarar?",
+        "correct_answer":"Boşluk bırakma",
+        "incorrect1":"Yardım isteme",
+        "incorrect2":"Silme",
+        "incorrect3":"Onaylama"
+    },
+    {
+        "question" : "'Mandıradan taze taze geldi’ diyen biri hangisinden bahsediyor olabilir?",
+        "correct_answer":"Peynir",
+        "incorrect1":"Sucuk",
+        "incorrect2":"Zeytin",
+        "incorrect3":"Üzüm"
+    },
+    {
+        "question" : "Gittiğiniz konserde etraftakiler siyah giyinmiş ve uzun saçlıysa, şarkıları dinlerken kafalarını sallıyorlarsa, sahnedeki grup ne tür müzik yapıyordur?",
+        "correct_answer":"Heavy Metal",
+        "incorrect1":"Caz",
+        "incorrect2":"Hip hop",
+        "incorrect3":"Reggae"
     }
 ]

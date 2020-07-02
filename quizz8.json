@@ -215,6 +215,139 @@
         "incorrect1":"Paris ve Londra'da Beş Parasız",
         "incorrect2":"Hayvan Çiftliği",
         "incorrect3":"Aspidistra"
+    },
+    {
+        "question" : "Eğer Venüs’te yaşıyor olsaydınız, sizin için hangisi daha uzun olurdu?",
+        "correct_answer":"1 gün",
+        "incorrect1":"1 saniye",
+        "incorrect2":"1 saat",
+        "incorrect3":"1 yıl"
+    },
+    {
+        "question" : "'Kadının fendi erkeği yendi’ sözünde geçen 'fent’in anlamı nedir?",
+        "correct_answer":"Hile",
+        "incorrect1":"Güzellik",
+        "incorrect2":"Işık",
+        "incorrect3":"Kıskançlık"
+    },
+    {
+        "question" : "'Sırgak, Almambet ve Çuvak’ hangi ünlü Orta Asya destanındaki baş kahramanın en yakın arkadaşlarıdır?",
+        "correct_answer":"Manas",
+        "incorrect1":"Göktürk",
+        "incorrect2":"Alp Er Tunga",
+        "incorrect3":"Gılgamış"
+    },
+    {
+        "question" : "Thomas Edison ikinci eşine hangisiyle evlenme teklif etmiştir?",
+        "correct_answer":"Mors alfabesiyle",
+        "incorrect1":"Radyo yayınıyla",
+        "incorrect2":"Işıklı tabelayla",
+        "incorrect3":"Telsizle"
+    },
+    {
+        "question" : "Flamingoların tüylerinin pembe olmasının sebebi nedir?",
+        "correct_answer":"Beslendikleri yiyecekler",
+        "incorrect1":"Uyudukları toprağın rengi",
+        "incorrect2":"Güneşte fazla kalmaları",
+        "incorrect3":"Yumurtaların çamura gömülmesi"
+    },
+    {
+        "question" : "Japoncadan dilimize geçen 'karate’ kelimesinin kökeninin anlamı nedir?",
+        "correct_answer":"Boş el",
+        "incorrect1":"Hayat dersi",
+        "incorrect2":"Yalın ayak",
+        "incorrect3":"Gün ışığı"
+    },
+    {
+        "question" : "'TIR’ hangisinin kısaltmasıdır?",
+        "correct_answer":"Uluslararası Karayolu Taşımacılığı",
+        "incorrect1":"Uluslararası Yük Taşımacılığı",
+        "incorrect2":"Uzun Yol Aracı",
+        "incorrect3":"Uzun ve Geniş Araç"
+    },
+    {
+        "question" : "'Uyuyan Güzel’ masalında prens tarafından öpülerek uyandırılan Uyuyan Güzel kaç yıllık uykudan uyandırılmıştır?",
+        "correct_answer":"100",
+        "incorrect1":"7",
+        "incorrect2":"10",
+        "incorrect3":"70"
+    },
+    {
+        "question" : "Fizikte 'ışık hızı' hangi harf ile sembolize edilir?",
+        "correct_answer":"C",
+        "incorrect1":"L",
+        "incorrect2":"E",
+        "incorrect3":"M"
+    },
+    {
+        "question" : "Hangi gezegen boyut ve kütle olarak Dünya’ya olan benzerliğinden dolayı, 'Dünya’nın ikiz kardeşi’ olarak da tanımlanır?",
+        "correct_answer":"Venüs",
+        "incorrect1":"Jüpiter",
+        "incorrect2":"Mars",
+        "incorrect3":"Merkür"
+    },
+    {
+        "question" : "Hangi Avrupa başkentinin sokaklarında bazılarının yaşı 200'den fazla olan yaklaşık 1.500 gaz lambası 5 kişilik ekip tarafından her gece yakılır?",
+        "correct_answer":"Londra",
+        "incorrect1":"Paris",
+        "incorrect2":"Roma",
+        "incorrect3":"Viyana"
+    },
+    {
+        "question" : "Arapçadan gelen 'şecere’ kelimesinin kökeninin anlamı nedir?",
+        "correct_answer":"Ağaç",
+        "incorrect1":"Aile",
+        "incorrect2":"Öykü",
+        "incorrect3":"Kök"
+    },
+    {
+        "question" : "Türkçede en fazla hangi iki ayla ilgili atasözü vardır?",
+        "correct_answer":"Mart-Nisan",
+        "incorrect1":"Ocak-Şubat",
+        "incorrect2":"Mayıs-Haziran",
+        "incorrect3":"Temmuz-Ağustos"
+    },
+    {
+        "question" : "Hayalet Avcıları'nın ilk filminde, baş kahramanlar hayalet avlama işine kaç kişi başlamışlardır?",
+        "correct_answer":"3",
+        "incorrect1":"2",
+        "incorrect2":"4",
+        "incorrect3":"6"
+    },
+    {
+        "question" : "Bir elde sopa diğer elde kalkan ile oynanan, eldeki sopanın rakibin kafasına değdirilmeye çalışıldığı Osmanlı Devleti’ndeki savaş sporunun adı nedir?",
+        "correct_answer":"Matrak",
+        "incorrect1":"Cümbüş",
+        "incorrect2":"Makara",
+        "incorrect3":"Abluka"
+    },
+    {
+        "question" : "Hangi vitaminin, anne sütünde yeterli miktarda olmadığı için, dışarıdan takviye edilmesi gerekir?",
+        "correct_answer":"D",
+        "incorrect1":"A",
+        "incorrect2":"C",
+        "incorrect3":"B"
+    },
+    {
+        "question" : "Sylvester Stallone ve Kurt Russell, başrollerini paylaştıkları polisiye-komedi filmde, filme de adını veren hangi ikiliyi canlandırmışlardır?",
+        "correct_answer":"Tango ve Cash",
+        "incorrect1":"Riggs ve Murtaugh",
+        "incorrect2":"Beavis ve Butthead",
+        "incorrect3":"Andy ve Paul"
+    },
+    {
+        "question" : "'Keyser Söze’ adlı Türk karakterin başrollerde olduğu, bir gemi limanında yaşanan olayları konu alan Bryan Singer’in yönettiği filmin adı nedir?",
+        "correct_answer":"Olağan Şüpheliler",
+        "incorrect1":"Gün Batımından Şafağa",
+        "incorrect2":"12 Maymun",
+        "incorrect3":"Rezervuar Köpekleri"
+    },
+    {
+        "question" : "“Cast Away” filminde, ıssız adada mahsur kalan birini canlandıran Tom Hanks hangisiyle arkadaşlık eder?",
+        "correct_answer":"Voleybol topu",
+        "incorrect1":"Beyzbol topu",
+        "incorrect2":"Basketbol topu",
+        "incorrect3":"Futbol topu"
     }
 
 ]

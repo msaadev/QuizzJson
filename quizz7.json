@@ -201,6 +201,154 @@
         "incorrect1":"Ferzan Özpetek",
         "incorrect2":"Yeşim Ustaoğlu",
         "incorrect3":"Çağan Irmak"
+    },
+    {
+        "question" : "97 yaşında hayatını kaybeden 'Bir Gün Tek Başına’ romanının yazarı kimdir?",
+        "correct_answer":"Vedat Türkali",
+        "incorrect1":"Tarık Buğra",
+        "incorrect2":"Cemil Meriç",
+        "incorrect3":"Fakir Baykurt"
+    },
+    {
+        "question" : "1950'lerde New York’taki bir reklam şirketinde yaşananları konu alan, yayımlandığı 7 sezonda 5 Altın Küre ve 16 Emmy kazanan dizi hangisidir?",
+        "correct_answer":"Mad Men",
+        "incorrect1":"Boardwalk Empire",
+        "incorrect2":"House",
+        "incorrect3":"Grey's Anatomy"
+    },
+    {
+        "question" : "'Gönülçelen’ adıyla da çevrilen, yazarı Salinger’in tek romanı olan kitap hangisidir?",
+        "correct_answer":"Çavdar Tarlasında Çocuklar",
+        "incorrect1":"İki Şehrin Hikayesi",
+        "incorrect2":"Ölü Ozanlar Derneği",
+        "incorrect3":"Şeker Portakalı"
+    },
+    {
+        "question" : "'İnsanın oturduğu toprağın altında ölüleri yoksa o kişi o toprağın insanı değildir’ sözü ve Albay Aureliano Buendia karakteri Marquez’in hangi kitabında yer alır?",
+        "correct_answer":"Yüzyıllık Yalnızlık",
+        "incorrect1":"Kolera Günlerinde Aşk",
+        "incorrect2":"Kırmızı Pazartesi",
+        "incorrect3":"Anlatmak İçin Yaşamak"
+    },
+    {
+        "question" : "'Grinch’ filminin çekimlerinde saatler süren zorlu makyaja dayanabilmek için CIA ajanlarına verilen işkenceye dayanma tekniklerini öğrenen aktör kimdir?",
+        "correct_answer":"Jim Carrey",
+        "incorrect1":"Adam Sandler",
+        "incorrect2":"Ben Stiller",
+        "incorrect3":"Tom Hanks"
+    },
+    {
+        "question" : "'Milhouse, Lisa ve Nelson’ hangi çizgi filmde yer alan çocuk karakterlerdir?",
+        "correct_answer":"The Simpsons",
+        "incorrect1":"Jetgiller",
+        "incorrect2":"Sünger Bob",
+        "incorrect3":"Family Guy"
+    },
+    {
+        "question" : "Bir dönem Türk televizyonlarında yayımlanan, başrolde Mel Gibson ve Danny Glover’ın oynadığı polisiye film serisinin adı nedir?",
+        "correct_answer":"Cehennem Silahı",
+        "incorrect1":"Görevimiz Tehlike",
+        "incorrect2":"Polis Akademisi",
+        "incorrect3":"Mavi Ay"
+    },
+    {
+        "question" : "“Susuz Yaz” ve “Sevmek Zamanı” filmlerinin yönetmeni kimdir?",
+        "correct_answer":"Metin Erksan",
+        "incorrect1":"Zeki Ökten",
+        "incorrect2":"Atıf Yılmaz",
+        "incorrect3":"Ömer Kavur"
+    },
+    {
+        "question" : "'Kül’ ve 'İstanbul’ adlı şiir kitaplarını yazan, 'Mutlu insan yazmaz, yazmak mutsuzluktur’ dizelerinin sahibi şair kimdir?",
+        "correct_answer":"İlhan Berk",
+        "incorrect1":"Murathan Mungan",
+        "incorrect2":"Özdemir Asaf",
+        "incorrect3":"Ece Ayhan"
+    },
+    {
+        "question" : "'Soul Müziğin Kraliçesi’ olarak da tanınan  şarkıcı kimdir?",
+        "correct_answer":"Aretha Franklin",
+        "incorrect1":"Gloria Estefan",
+        "incorrect2":"Joan Baez",
+        "incorrect3":"Janis Joplin"
+    },
+    {
+        "question" : "'Narlar ve Ayvalar’ tablosu Türkiye’nin en değerli yağlıboya tabloları arasında olan özellikle natürmort çalışmalarıyla tanınan ressam kimdir?",
+        "correct_answer":"Şeker Ahmed Paşa",
+        "incorrect1":"Süleyman Seyyid Bey",
+        "incorrect2":"Osman Hamdi Bey",
+        "incorrect3":"Hoca Ali Rıza"
+    },
+    {
+        "question" : "Değerli bir mineral olan 'firuze’ taşının diğer adı nedir?",
+        "correct_answer":"Turkuaz",
+        "incorrect1":"Akik",
+        "incorrect2":"Opal",
+        "incorrect3":"Safir"
+    },
+    {
+        "question" : "Yatağından nadiren kalkan tembel bir Rus asilzadenin hikayesini anlatan Gonçarov’a ait romanın adı nedir?",
+        "correct_answer":"Oblomov",
+        "incorrect1":"İvan İlyiç'in Ölümü",
+        "incorrect2":"Budala",
+        "incorrect3":"Muhteşem Gatsby"
+    },
+    {
+        "question" : "Ernest Hemingway’in 'bugüne kadar yazdığım en iyi şey’ dediği, 1953'te Pulitzer ve 1954'te Nobel Edebiyat Ödülü kazanan romanı hangisidir?",
+        "correct_answer":"Yaşlı Adam ve Deniz",
+        "incorrect1":"Silahlara Veda",
+        "incorrect2":"Kilimanjaro'nun Karları",
+        "incorrect3":"Çanlar Kimin İçin Çalıyor"
+    },
+    {
+        "question" : "'Snatch’ ve 'RocknRolla’ filmlerinin yönetmeni kimdir?",
+        "correct_answer":"Guy Ritchie",
+        "incorrect1":"Brian De Palma",
+        "incorrect2":"David Fincher",
+        "incorrect3":"Alan Parker"
+    },
+    {
+        "question" : "Hangisi Türk müziğindeki makamlardan birinin adı değildir?",
+        "correct_answer":"Enderun",
+        "incorrect1":"Rast",
+        "incorrect2":"Nikriz",
+        "incorrect3":"Gerdaniye"
+    },
+    {
+        "question" : "Solo Test oyununda 9 veya daha fazla piyon bırakıp sıfır puan alan kişi ne seçilirdi?",
+        "correct_answer":"Beyinsiz",
+        "incorrect1":"Dengesiz",
+        "incorrect2":"Gerizekalı",
+        "incorrect3":"Tecrübesiz"
+    },
+    {
+        "question" : "Babasının soyadı Yılmaz olan, yeni doğmuş ve ismi konmamış bir bebeğin hastane işlemlerinde ad soyad bölümüne genellikle ne yazılır?",
+        "correct_answer":"Bebek Yılmaz",
+        "incorrect1":"Yenidoğan Yılmaz",
+        "incorrect2":"Meçhul Yılmaz",
+        "incorrect3":"İsimsiz Yılmaz"
+    },
+    {
+        "question" : "Yayımlandığı dönem hem dünyada hem Türkiye’de efsane olan 'Altın Kızlar’ dizisinin başkahramanları toplamda kaç kişiydi?",
+        "correct_answer":"4",
+        "incorrect1":"3",
+        "incorrect2":"5",
+        "incorrect3":"6"
+    },
+    {
+        "question" : "Hangisi camdan yapılmış bir süs eşyasıdır?",
+        "correct_answer":"Çeşmibülbül",
+        "incorrect1":"Şevketibostan",
+        "incorrect2":"Civanperçemi",
+        "incorrect3":"Mercanköşk"
+    },
+    {
+        "question" : "Gemide dümeni sola çevirmeniz gerekiyorsa hangi komutu almışsınız demektir?",
+        "correct_answer":"İskele alabanda",
+        "incorrect1":"Pupa yelken",
+        "incorrect2":"Sancak alabanda",
+        "incorrect3":"Yelkenler fora"
     }
+    
 
 ]

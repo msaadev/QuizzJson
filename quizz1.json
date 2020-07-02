@@ -278,5 +278,74 @@
         "incorrect1":"Elinde",
         "incorrect2":"Başında",
         "incorrect3":"Ağzında"
+    },{
+        "question" : "'Karga karga gak dedi’ şeklinde başlayan tekerlemenin devamında hangisi söylenir?",
+        "correct_answer":"Çık şu dala bak dedi",
+        "incorrect1":"Kanatları çırp dedi",
+        "incorrect2":"Kap gel iki ekmek dedi",
+        "incorrect3":"Başucuma koy dedi"
+    },
+    {
+        "question" : "'Seviyor sevmiyor’ sözünü tekrar tekrar söyleyen biri hangisini yapıyordur?",
+        "correct_answer":"Papatya falı bakıyordur",
+        "incorrect1":"Ezber yapıyordur",
+        "incorrect2":"Sırada bekliyordur",
+        "incorrect3":"Parmaklarını sayıyordur"
+    },
+    {
+        "question" : "Aslında yapamayacağı işleri sanki yapabilirmiş gibi anlatan kişilerin, mangalda ne bırakmadıkları söylenir?",
+        "correct_answer":"Kül",
+        "incorrect1":"Buhar",
+        "incorrect2":"İs",
+        "incorrect3":"Ateş"
+    },
+    {
+        "question" : "Halk arasında kullanılan söze göre, Hint kumaşının özelliği nedir?",
+        "correct_answer":"Bulunmaz olması",
+        "incorrect1":"Altın kaplı olması",
+        "incorrect2":"Sihirli olması",
+        "incorrect3":"Görünmez olması"
+    },
+    {
+        "question" : "Filmlerde işinden kovulan gururlu karakterin 'siz beni kovamazsınız’ diye başlayan sözü nasıl devam eder?",
+        "correct_answer":"Ben istifa ediyorum",
+        "incorrect1":"Patrondan torpilliyim",
+        "incorrect2":"Sizi mahkemeye veriririm",
+        "incorrect3":"Ben sizi kovuyorum"
+    },
+    {
+        "question" : "Amerikan filmlerinde dışarıdan genellikle hangi yemeğin siparişi verilir?",
+        "correct_answer":"Pizza",
+        "incorrect1":"Tantuni",
+        "incorrect2":"Yengen",
+        "incorrect3":"Dürüm"
+    },
+    {
+        "question" : "'Durun siz kardeşsiniz’ sözüyle durdurulan tören genellikle hangisidir?",
+        "correct_answer":"Nikah töreni",
+        "incorrect1":"Sünnet töreni",
+        "incorrect2":"Mezuniyet töreni",
+        "incorrect3":"Takı töreni"
+    },
+    {
+        "question" : "Hangisi 'birbirine çok düşkün, çok yakında ve çok bağlı' kişileri tarif etmek için kullanılır?",
+        "correct_answer":"Etle tırnak",
+        "incorrect1":"Suyla sabun",
+        "incorrect2":"Okla yay",
+        "incorrect3":"Kaşla göz"
+    },
+    {
+        "question" : "Nikah töreninde, imza attıktan hemen sonra damadın yüzünde oluşan acı çekme ifadesinin nedeni genellikle hangisi olur?",
+        "correct_answer":"Ayağına basılması",
+        "incorrect1":"İlk aşkını hatırlaması",
+        "incorrect2":"Annesini özlemesi",
+        "incorrect3":"Düğün masraflarını düşünmesi"
+    },
+    {
+        "question" : "Büyük istek duymak ve imrenmek anlamında kullanılan söz hangisidir?",
+        "correct_answer":"İçi gitmek",
+        "incorrect1":"İçi geçmek",
+        "incorrect2":"İçi erimek",
+        "incorrect3":"İçi ısınmak"
     }
 ]

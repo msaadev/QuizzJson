@@ -278,5 +278,74 @@
         "incorrect1":"Güreş",
         "incorrect2":"Halter",
         "incorrect3":"Tenis"
+    },{
+        "question" : "Eskiden ilkokullardaki okuma fişlerinde Işıl’dan ne yapması istenirdi?",
+        "correct_answer":"Ilık süt içmesi",
+        "incorrect1":"Ata bakması",
+        "incorrect2":"Eve gelmesi",
+        "incorrect3":"İp atlaması"
+    },
+    {
+        "question" : "Karşıdaki kişiye 'telefonla ara’ demek için yapılan el işaretinde başparmak kulağa götürülürken aynı elin hangi parmağı ağza doğru olur?",
+        "correct_answer":"Serçe parmağı",
+        "incorrect1":"İşaret parmağı",
+        "incorrect2":"Yüzük parmağı",
+        "incorrect3":"Orta parmağı"
+    },
+    {
+        "question" : "Eskiden hangi ev eşyasının kömürlü olanı kullanılırdı?",
+        "correct_answer":"Ütü",
+        "incorrect1":"Çamaşır makinesi",
+        "incorrect2":"Süpürge",
+        "incorrect3":"Radyo"
+    },
+    {
+        "question" : "Hangisi bittiğinde genellikle kabının içine bir miktar su koyulup çalkalanarak bir kez kullanılır?",
+        "correct_answer":"Şampuan",
+        "incorrect1":"Parfüm",
+        "incorrect2":"Diş macunu",
+        "incorrect3":"Saç spreyi"
+    },
+    {
+        "question" : "'Zeytinyağlı yiyemem aman’ şeklinde başlayan türküde giyilemeyeceği söylenen kıyafet hangisidir?",
+        "correct_answer":"Basma fistan",
+        "incorrect1":"Kolalı gömlek",
+        "incorrect2":"Damalı mintan",
+        "incorrect3":"Yakasız cepken"
+    },
+    {
+        "question" : "Onaylama ve beğenme işareti yaparken, el yumruk haline getirildikten sonra hangi parmak havaya kaldırılır?",
+        "correct_answer":"Başparmak",
+        "incorrect1":"İşaret parmağı",
+        "incorrect2":"Serçe parmak",
+        "incorrect3":"Yüzük parmağı"
+    },
+    {
+        "question" : "Çok çabuk yer değiştiren kişiler için söylenen 'çat orada, çat burada’ diye başlayan söz nasıl biter?",
+        "correct_answer":"Çat kapı arkasında",
+        "incorrect1":"Çat evin damında",
+        "incorrect2":"Çat köşe başında",
+        "incorrect3":"Çat göz önünde"
+    },
+    {
+        "question" : "Dün günlerden pazartesi ise yarın günlerden ne olur?",
+        "correct_answer":"Çarşamba",
+        "incorrect1":"Pazartesi",
+        "incorrect2":"Perşembe",
+        "incorrect3":"Salı"
+    },
+    {
+        "question" : "Yan yana dizilen kişilerin sırayla birbirine fısıldayarak aynı cümleyi söylemeye çalıştığı oyun hangisidir?",
+        "correct_answer":"Kulaktan Kulağa",
+        "incorrect1":"Sessiz Sinema",
+        "incorrect2":"İsim Şehir",
+        "incorrect3":"Amiral Battı"
+    },
+    {
+        "question" : "İzlediğiniz Yeşilçam filminde 'sizi tevkif ediyorum’ diyen kişinin mesleği ne olabilir?",
+        "correct_answer":"Polis",
+        "incorrect1":"Doktor",
+        "incorrect2":"Öğretmen",
+        "incorrect3":"Fabrikatör"
     }
 ]

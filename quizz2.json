@@ -285,5 +285,67 @@
         "incorrect1":"Köprü",
         "incorrect2":"Ağaç",
         "incorrect3":"Şato"
+    },{
+        "question" : "'Elinden iş gelen, becerikli’ kişiler için kullanılan kelime hangisidir?",
+        "correct_answer":"Hamarat",
+        "incorrect1":"Cevval",
+        "incorrect2":"Vakur",
+        "incorrect3":"Emektar"
+    },
+    {
+        "question" : "Yeşilçam filmlerinde 'yaz kızım, gereği düşünüldü' diye söze başlayan birinin mesleği hangisidir?",
+        "correct_answer":"Hakim",
+        "incorrect1":"Doktor",
+        "incorrect2":"Öğretmen",
+        "incorrect3":"Polis"
+    },
+    {
+        "question" : "Çayı nasıl içenler sürekli olarak çayın gerçek tadını bu şekilde aldıklarını iddia ederler?",
+        "correct_answer":"Şekersiz içenler",
+        "incorrect1":"Açık içenler",
+        "incorrect2":"Ilık içenler",
+        "incorrect3":"Fincanda içenler"
+    },
+    {
+        "question" : "Filmlerde sokak ortasında bayılan biri olduğunda, etrafında toplanan kalabalığı aşmak isteyen kişi genellikle hangi sözü söyler?",
+        "correct_answer":"Açılın ben doktorum",
+        "incorrect1":"Gülümseyin ben fotoğrafçıyım",
+        "incorrect2":"Dağılın ben suçluyum",
+        "incorrect3":"Merhaba ben dostum"
+    },
+    {
+        "question" : "Baharat ve bakliyat gibi kurutulmuş gıdaların nasıl ortamlarda muhafaza edilmesi tavsiye edilir?",
+        "correct_answer":"Serin ve kuru",
+        "incorrect1":"Uzun ve geniş",
+        "incorrect2":"Rüzgarlı ve soğuk",
+        "incorrect3":"Ilık ve yağışlı"
+    },
+    {
+        "question" : "'Birini bir şeye inandırmak için uzun uzun konuşmak, kandırmaya çalışmak’ anlamında kullanılan söz hangisidir?",
+        "correct_answer":"Dil dökmek",
+        "incorrect1":"Dili sürçmek",
+        "incorrect2":"Dil uzatmak",
+        "incorrect3":"Dili dolanmak"
+    },
+    {
+        "question" : "Olup bitenleri çabuk haber alan kişiler için halk arasında kullanılan ifade hangisidir?",
+        "correct_answer":"Kulağı delik",
+        "incorrect1":"Burnu uzun",
+        "incorrect2":"Eli açık",
+        "incorrect3":"Çenesi düşük"
+    },
+    {
+        "question" : "Hangi durumdaki deniz için 'çarşaf gibi’ benzetmesi yapılır?",
+        "correct_answer":"Sakin",
+        "incorrect1":"Derin",
+        "incorrect2":"Sığ",
+        "incorrect3":"Dalgalı"
+    },
+    {
+        "question" : "Bir konser sonunda devam eden alkışlarla şarkıcının tekrar sahneye gelip bir şarkı daha seslendirmesine ne ad verilir?",
+        "correct_answer":"Bis yapmak",
+        "incorrect1":"Jübile yapmak",
+        "incorrect2":"Jest yapmak",
+        "incorrect3":"Düet yapmak"
     }
 ]

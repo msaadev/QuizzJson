@@ -138,5 +138,215 @@
         "incorrect1":"Zürafa",
         "incorrect2":"Maymun",
         "incorrect3":"Aslan"
+    },
+    {
+        "question" : "Tevrat ve Kuran’ı Kerim’de anlatılan firavun hikayelerine göre, Mısır’a musallat olan hayvanlar arasında hangisi yoktur?",
+        "correct_answer":"Kargalar",
+        "incorrect1":"Çekirgeler",
+        "incorrect2":"Kurbağalar",
+        "incorrect3":"Sinekler"
+    },
+    {
+        "question" : "Yunan mitolojisinde, vücudunun üst tarafı hayvan, alt tarafı insan olan yaratık hangisidir?",
+        "correct_answer":"Minotor",
+        "incorrect1":"Kimera",
+        "incorrect2":"Sentor",
+        "incorrect3":"Siren"
+    },
+    {
+        "question" : "31 Aralık’ta nerede olursanız yeni yıla daha önce girersiniz?",
+        "correct_answer":"Kanarya Adaları",
+        "incorrect1":"Karayip Adaları",
+        "incorrect2":"Hawaii Adaları",
+        "incorrect3":"Galapagos Adaları"
+    },
+    {
+        "question" : "Hangisi bir bitki değildir?",
+        "correct_answer":"Tavşanburnu",
+        "incorrect1":"Tavşanağzı",
+        "incorrect2":"Tavşankulağı",
+        "incorrect3":"Tavşanbıyığı"
+    },
+    {
+        "question" : "Not defterleri yüksek miktarda radyasyona maruz kaldığı için radyoaktif sızıntı yapması engellenen kurşun kaplı bölmelerde tutulan Nobel ödüllü kişi kimdir?",
+        "correct_answer":"Marie Curie",
+        "incorrect1":"Conrad Röntgen",
+        "incorrect2":"Nikola Tesla",
+        "incorrect3":"Thomas Edison"
+    },
+    {
+        "question" : "Sadece bankalar arası transferlerde kullanılmış en yüksek değerdeki 1 adet kağıt Amerikan doları banknotunun değeri nedir?",
+        "correct_answer":"100.000 Dolar",
+        "incorrect1":"1.000 Dolar",
+        "incorrect2":"10.000 Dolar",
+        "incorrect3":"1.000.000 Dolar"
+    },
+    {
+        "question" : "Hangisi güreşte yapılan bir oyuna verilen isimdir?",
+        "correct_answer":"Köpekkuyruğu",
+        "incorrect1":"Devesırtı",
+        "incorrect2":"Kediboyunu",
+        "incorrect3":"Yılansarımı"
+    },
+    {
+        "question" : "Kanadalı diş hekimi Michael Zuk ileride klonlamak için kimin yirmi yaş dişine açık arttırmada yaklaşık 33 bin dolar vererek satın almıştır?",
+        "correct_answer":"John Lennon",
+        "incorrect1":"Marilyn Monroe",
+        "incorrect2":"Albert Einstein",
+        "incorrect3":"Michael Jackson"
+    },
+    {
+        "question" : "Rakamlarla yazılmaya çalışıldığında evrene sığması mümkün olmayan ve Guinness Dünya Rekorları'na giren sayının adı nedir?",
+        "correct_answer":"Graham sayısı",
+        "incorrect1":"Gödel sayısı",
+        "incorrect2":"Cutler sayısı",
+        "incorrect3":"Friedman sayısı"
+    },
+    {
+        "question" : "9. yy’a ait olan bir Viking mezarında çıkarılan yüzüğün üzerinde Arapça ne yazılı olduğu keşfedilmiştir?",
+        "correct_answer":"Allah için",
+        "incorrect1":"Diyojen'e ait",
+        "incorrect2":"99",
+        "incorrect3":"Mor Konstantinopolis"
+    },
+    {
+        "question" : "“Yasa” adıyla sadece yöneticilerin bildiği gizli bir kanunname hazırlatan hükümdar kimdir?",
+        "correct_answer":"Cengiz Han",
+        "incorrect1":"Hammurabi",
+        "incorrect2":"Jül Sezar",
+        "incorrect3":"Büyük İskender"
+    },
+    {
+        "question" : "1994'te 240 mil ötede kalp krizi geçiren kardeşine ehliyeti olmadığı için arabayla gidemeyen Alvin Straight, hangi araçla 6 haftada gidebilmiştir?",
+        "correct_answer":"Çim biçme makinesi",
+        "incorrect1":"Biçerdöver",
+        "incorrect2":"Golf arabası",
+        "incorrect3":"Forklift"
+    },
+    {
+        "question" : "Bartolomeo Cristofori, 1700'lerde temel bir mekanik soruna çözüm arayarak hangi enstrümanı icat etmiştir?",
+        "correct_answer":"Piyano",
+        "incorrect1":"Saksafon",
+        "incorrect2":"Gayda",
+        "incorrect3":"Akordiyon"
+    },
+    {
+        "question" : "Sakalı, altın dişi, bilgisayar oyunlarını yasaklayan, aylardan birine annesinin adını veren Niyazov 2006'da öldüğünde hangi ülkenin devlet başkanıydı?",
+        "correct_answer":"Türkmenistan",
+        "incorrect1":"Kazakistan",
+        "incorrect2":"Kırgızistan",
+        "incorrect3":"Özbekistan"
+    },
+    {
+        "question" : "Bir Osmanlı adetinde şubatın son gecesi balkondan eskimiş bardak, tabak gibi eşyayı atarak “Mart içeri” diye bağıranlar, neyin dışarı çıkmasını isterdi?",
+        "correct_answer":"Pire",
+        "incorrect1":"Karınca",
+        "incorrect2":"Güve",
+        "incorrect3":"Tahtakurusu"
+    },
+    {
+        "question" : "Meksika’da bir köyde, pesoları olmadığı için kendi ürettikleri parayla alışveriş yapan halkın bu paraya verdiği isim olan Tumin’in anlamı nedir?",
+        "correct_answer":"Para",
+        "incorrect1":"Kağıt",
+        "incorrect2":"Şans",
+        "incorrect3":"Bilet"
+    },
+    {
+        "question" : "35 kez Nobel’e aday gösterilmesine rağmen hiçbirini kazanamayan, hayatına zehir içerek son veren ünlü kimyager kimdir?",
+        "correct_answer":"Gilbert Lewis",
+        "incorrect1":"Sidney Altman",
+        "incorrect2":"Rudolph Marcus",
+        "incorrect3":"Walter Kohn"
+    },
+    {
+        "question" : "Hindistan’da farklı sosyal sınıflardan birbirine aşık olan insanları kavuşturmak gibi işler için çalışan örgüt hangisidir?",
+        "correct_answer":"Aşk Komandoları",
+        "incorrect1":"Sevgi Gönüllüleri",
+        "incorrect2":"Sınır Tanımayan Aşıklar",
+        "incorrect3":"Eros Vakfı"
+    },
+    {
+        "question" : "Amerikan İç Savaşı'nda Güney Konfedere Hükümeti bastığı her banknota ne yaparak paranın sahtesinin yapılmasını önlemeye çalışmıştır?",
+        "correct_answer":"Elle imzalamak",
+        "incorrect1":"Parmak izi kullanmak",
+        "incorrect2":"Farklı renkler kullanmak",
+        "incorrect3":"Farklı resim kullanmak"
+    },
+    {
+        "question" : "İnsanı uğursuzluktan koruduğuna inanılan içi yazmalı kolyeye verilen isim olan “cevşen” kelimesinin Arapçadaki anlamı nedir?",
+        "correct_answer":"Göğüs zırhı",
+        "incorrect1":"Kalp örtüsü",
+        "incorrect2":"Işık köprüsü",
+        "incorrect3":"İman zinciri"
+    },
+    {
+        "question" : "1959 yazında valilik büyük bir kampanya başlatarak İstanbulluların her pazartesi 13:00–14:00 arasında ne yapmalarını istemiştir?",
+        "correct_answer":"Karasinek avlamalarını",
+        "incorrect1":"Kapan kurmalarını",
+        "incorrect2":"Klasik müzik dinlemelerini",
+        "incorrect3":"Güneşlenmelerini"
+    },
+    {
+        "question" : "“Dromomani” adı verilen psikolojik rahatsızlık, hangisinin kontrol edilemeyen isteğidir?",
+        "correct_answer":"Seyahat etme",
+        "incorrect1":"Çalışma",
+        "incorrect2":"Yemek yeme",
+        "incorrect3":"Yazı yazma"
+    },
+    {
+        "question" : "İnsan gücüyle çalışan, kürekleri olan ve 4,5 m derinliğe dalabilen, mucidinin adını taşıyan tarihin ilk denizaltısı hangisidir?",
+        "correct_answer":"Drebbel denizaltısı",
+        "incorrect1":"Banneker denizaltısı",
+        "incorrect2":"Eastman denizaltısı",
+        "incorrect3":"Howe denizaltısı"
+    },
+    {
+        "question" : "Antik dönemde, alaycılığı ve neşeli kişiliği nedeniyle “Gülen Filozof” lakabıyla anılan düşünür kimdir?",
+        "correct_answer":"Demokritos",
+        "incorrect1":"Seneca",
+        "incorrect2":"Zenon",
+        "incorrect3":"Diyojen"
+    },
+    {
+        "question" : "1967'de yüzerken gizemli bir şekilde kaybolan ve kendisinden bir daha haber alınamayan Harold Holt hangi ülkenin başbakanıydı?",
+        "correct_answer":"Avustralya",
+        "incorrect1":"Kanada",
+        "incorrect2":"Yeni Zelanda",
+        "incorrect3":"İngiltere"
+    },
+    {
+        "question" : "Romalılar ilk Hristiyanlar için hangi ifadeyi kullanmışlardır?",
+        "correct_answer":"Ateist",
+        "incorrect1":"Fanatik",
+        "incorrect2":"Hümanist",
+        "incorrect3":"İdealist"
+    },
+    {
+        "question" : "Eski Yunancadan gelen “klinik” kelimesinin kökeninin anlamı nedir?",
+        "correct_answer":"Yatak",
+        "incorrect1":"İlaç",
+        "incorrect2":"Oda",
+        "incorrect3":"Pamuk"
+    },
+    {
+        "question" : "Geçtiğimiz yıllarda İsrail’de 8000 yıllık kil çömlek içerisinde hangisinin kalıntıları bulunmuştur?",
+        "correct_answer":"Zeytinyağı",
+        "incorrect1":"Yoğurt",
+        "incorrect2":"Şarap",
+        "incorrect3":"Pekmez"
+    },
+    {
+        "question" : "Dilimize İtalyancadan geçen ve bir pirince de adını veren “baldo” kelimesinin anlamı nedir?",
+        "correct_answer":"Cesur",
+        "incorrect1":"Leziz",
+        "incorrect2":"Dev",
+        "incorrect3":"Çabuk"
+    },
+    {
+        "question" : "Yerdeki muz kabuğunun sürtünme katsayısı, kutup ayısı kılığındakilere geyiklerin verdiği tepkiler gibi alışılmadık araştırmalara verilen ödül hangisidir?",
+        "correct_answer":"Ig Nobel Ödülleri",
+        "incorrect1":"Fig Nobel Ödülleri",
+        "incorrect2":"Ugh Nobel Ödülleri",
+        "incorrect3":"Iddy Nobel Ödülleri"
     }
 ]

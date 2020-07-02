@@ -250,5 +250,103 @@
         "incorrect1":"Resiztanz",
         "incorrect2":"Residence",
         "incorrect3":"Redizstans"
+    },
+    {
+        "question" : "'Keşkek’ adı verilen geleneksel yemeği yapmak için hangisine kesinlikle ihtiyacınız vardır?",
+        "correct_answer":"Buğday",
+        "incorrect1":"İrmik",
+        "incorrect2":"Nohut",
+        "incorrect3":"Pirinç"
+    },
+    {
+        "question" : "'Huş' hangisinin bir türüdür?",
+        "correct_answer":"Ağaç",
+        "incorrect1":"Kumaş",
+        "incorrect2":"Tatlı",
+        "incorrect3":"Müzik aleti"
+    },
+    {
+        "question" : "'Müşavir’in anlamı nedir?",
+        "correct_answer":"Danışman",
+        "incorrect1":"Aracı",
+        "incorrect2":"Sözcü",
+        "incorrect3":"Yardımcı"
+    },
+    {
+        "question" : "'Dinlemek için verilen ara’ anlamındaki kelimenin doğru yazılışı hangisidir?",
+        "correct_answer":"Teneffüs",
+        "incorrect1":"Tenefüs",
+        "incorrect2":"Tennefüs",
+        "incorrect3":"Tenneffüs"
+    },
+    {
+        "question" : "Koyun, keçi, sığır gibi kesilecek hayvanların ticaretini yapan kişine ne ad verilir?",
+        "correct_answer":"Celep",
+        "incorrect1":"Çerçi",
+        "incorrect2":"Bezirgan",
+        "incorrect3":"Hallaç"
+    },
+    {
+        "question" : "'Ayının kırk türküsü var’ diye başlayan atasözüne göre, türkülerin kırkının da konusu hangisidir?",
+        "correct_answer":"Ahlat",
+        "incorrect1":"Uyku",
+        "incorrect2":"Bal",
+        "incorrect3":"Döngel"
+    },
+    {
+        "question" : "Hangi trafik levhasının şekli yuvarlak değildir?",
+        "correct_answer":"Dur",
+        "incorrect1":"Park etmek yasaktır",
+        "incorrect2":"Yaya giremez",
+        "incorrect3":"Sağa mecburi yön"
+    },
+    {
+        "question" : "Bacağın dizden yukarıdaki bölümüne ne ad verilir?",
+        "correct_answer":"Uyluk",
+        "incorrect1":"Baldır",
+        "incorrect2":"Kaval",
+        "incorrect3":"İncik"
+    },
+    {
+        "question" : "'Leasing’ ne demektir?",
+        "correct_answer":"Kiralama",
+        "incorrect1":"Para yönetimi",
+        "incorrect2":"Pazarlama",
+        "incorrect3":"Kredilendirme"
+    },
+    {
+        "question" : "Özel bir maya mantarıyla keçi veya inek sütünün mayalanmasıyla hazırlanan, Kafkas kökenli ekşi içeceğin adı nedir?",
+        "correct_answer":"Kefir",
+        "incorrect1":"Boza",
+        "incorrect2":"Zahter",
+        "incorrect3":"Kımız"
+    },
+    {
+        "question" : "Voleybolda hangi mevkide oynayan oyuncu takım arkadaşlarından farklı renkte bir forma giyer?",
+        "correct_answer":"Libero",
+        "incorrect1":"Pasör",
+        "incorrect2":"Smaçör",
+        "incorrect3":"Orta oyuncu"
+    },
+    {
+        "question" : "Hangi ülkenin futbol takımları, diğer kupaların yanında 'Kral Kupası' için de mücadele ederler?",
+        "correct_answer":"İspanya",
+        "incorrect1":"İtalya",
+        "incorrect2":"Hollanda",
+        "incorrect3":"İngiltere"
+    },
+    {
+        "question" : "Maceraları genellikle Jellystone Ulusal Parkı'nda geçen, ziyaretçilerin piknik sepetlerini çalmasıyla bilinen çizgi film kahramanı hangisidir?",
+        "correct_answer":"Ayı Yogi",
+        "incorrect1":"Kaptan Mağara Adamı",
+        "incorrect2":"Tazmanya Canavarı",
+        "incorrect3":"Scooby Doo"
+    },
+    {
+        "question" : "Eve 'berjer’ aldığını söyleyen bir kişi hangisinin bir türünü satın almıştır?",
+        "correct_answer":"Koltuk",
+        "incorrect1":"Konsol",
+        "incorrect2":"Sehpa",
+        "incorrect3":"Lamba"
     }
 ]

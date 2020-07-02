@@ -243,5 +243,110 @@
         "incorrect1":"Katamaran",
         "incorrect2":"Gulet",
         "incorrect3":"Fırkateyn"
+    },
+    {
+        "question" : "Büyükten küçüğe doğru sıralanan tahta ya da metallere iki küçük değnekle vurularak çalınan müzik aleti hangisidir?",
+        "correct_answer":"Ksilofon",
+        "incorrect1":"Lir",
+        "incorrect2":"Sitar",
+        "incorrect3":"Klavsen"
+    },
+    {
+        "question" : "Efsaneye göre, saplanmış olduğu taştan çıkaran kişinin İngiltere kralı olacağına inanılan ve Kral Arthur tarafından çıkarılan kılıcın adı nedir?",
+        "correct_answer":"Excalibur",
+        "incorrect1":"Enterprise",
+        "incorrect2":"Anduril",
+        "incorrect3":"Blade"
+    },
+    {
+        "question" : "'Karaorman pastası' hangi ülke mutfağına ait bir yiyecektir?",
+        "correct_answer":"Almanya",
+        "incorrect1":"ABD",
+        "incorrect2":"Belçika",
+        "incorrect3":"Fransa"
+    },
+    {
+        "question" : "ABD’de her yıl düzenlenen 'Super Bowl’ şampiyonluk maçı hangi spora ait bir karşılaşmadır?",
+        "correct_answer":"Amerikan futbolu",
+        "incorrect1":"Kriket",
+        "incorrect2":"Buz hokeyi",
+        "incorrect3":"Beyzbol"
+    },
+    {
+        "question" : "Ninja Kaplumbağalar çizgi filmindeki “April O’Neil” karakterinin mesleği hangisidir?",
+        "correct_answer":"Gazeteci",
+        "incorrect1":"Doktor",
+        "incorrect2":"Avukat",
+        "incorrect3":"Dedektif"
+    },
+    {
+        "question" : "Rio Olimpiyatları'nda Türkiye, madalyasını 15 Temmuz şehitlerine ithaf eden Taha Akgül’le elde ettiği tek altın madalyayı hangi dalda kazanmıştır?",
+        "correct_answer":"Güreş",
+        "incorrect1":"Halter",
+        "incorrect2":"Boks",
+        "incorrect3":"Tekvando"
+    },
+    {
+        "question" : "Eğer yurt dışından arayan arkadaşınız 'Burada geceler çok uzun, hava çok soğuk, her gün kar yağıyor’ diyorsa hangi ülkede olabilir?",
+        "correct_answer":"Arjantin",
+        "incorrect1":"Meksika",
+        "incorrect2":"Tayland",
+        "incorrect3":"Hindistan"
+    },
+    {
+        "question" : "Hangisi eskiden kullanılan ölçü birimlerinden biri değildir?",
+        "correct_answer":"Ramak",
+        "incorrect1":"Batman",
+        "incorrect2":"Kırat",
+        "incorrect3":"Okka"
+    },
+    {
+        "question" : "Karşılaşmayı anlatan spiker 'trivela’ terimini kullanıyorsa, hangi spordan bahsediyor demektir?",
+        "correct_answer":"Futbol",
+        "incorrect1":"Tenis",
+        "incorrect2":"Boks",
+        "incorrect3":"Basketbol"
+    },
+    {
+        "question" : "'Guggenheim’, 'Tate’ ve 'Prado’yu ziyaret ettiğini söyleyen bir kişi hangisine gitmiştir?",
+        "correct_answer":"Müze",
+        "incorrect1":"Opera binası",
+        "incorrect2":"Stadyum",
+        "incorrect3":"Kale"
+    },
+    {
+        "question" : "En kuzeyinden en güneyine yapılan kara yolculuğu günler süren ancak en doğusundan en batısına birkaç saatte ulaşılabilen ülke hangisidir?",
+        "correct_answer":"Şili",
+        "incorrect1":"Kanada",
+        "incorrect2":"Rusya",
+        "incorrect3":"Brezilya"
+    },
+    {
+        "question" : "Doğru tamamlanmış standart bir sudoku tablosunda bulunan 9 rakamlarının toplamı kaçtır?",
+        "correct_answer":"81",
+        "incorrect1":"63",
+        "incorrect2":"72",
+        "incorrect3":"90"
+    },
+    {
+        "question" : "“Nova, satsuma ve okitsu” hangi meyvenin çeşitleridir?",
+        "correct_answer":"Mandalina",
+        "incorrect1":"Üzüm",
+        "incorrect2":"Şeftali",
+        "incorrect3":"İncir"
+    },
+    {
+        "question" : "Bu yaz “Kuşadası, Pamukkale ve Aspendos’a gittim” diyen biri sırasıyla hangi illere gitmiş demektir?",
+        "correct_answer":"Aydın-Denizli-Antalya",
+        "incorrect1":"İzmir-Aydın-Antalya",
+        "incorrect2":"Antalya-Muğla-Aydın",
+        "incorrect3":"Muğla-Denizli-İzmir"
+    },
+    {
+        "question" : "'Lampedusa’, 'Stromboli’ ve 'Capri’ adaları hangi ülkeye aittir?",
+        "correct_answer":"İtalya",
+        "incorrect1":"Yunanistan",
+        "incorrect2":"İspanya",
+        "incorrect3":"Hırvatistan"
     }
 ]

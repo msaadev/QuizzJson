@@ -166,5 +166,187 @@
         "incorrect1":"Neo",
         "incorrect2":"Achilles",
         "incorrect3":"Jon Snow"
+    },
+    {
+        "question" : "Hindistan’ın bir bölgesindeki polis merkezinde polisler, 2004'ten beri devam eden uygulamaya göre hangisini yaptıklarında maaşlarını zamlı alırlar?",
+        "correct_answer":"Bıyık bırakmak",
+        "incorrect1":"İşe baharatlı yemek getirmemek",
+        "incorrect2":"Evlerinde inek beslemek",
+        "incorrect3":"Akıllı telefon kullanmamak"
+    },
+    {
+        "question" : "Osmanlı Devleti’nde, gündüzleri gerçekleşen yangınlar Beyazıt Kulesi’nden ne sarkıtılarak haber verilirdi?",
+        "correct_answer":"Sepet",
+        "incorrect1":"Balta",
+        "incorrect2":"İbrik",
+        "incorrect3":"postu"
+    },
+    {
+        "question" : "Üç erkek kardeşten oluşan Abdullah Biraderler, Osmanlı Devleti’nde hangi alandaki başarılarıyla tanınırlardı?",
+        "correct_answer":"Fotoğrafçılık",
+        "incorrect1":"Mimarlık",
+        "incorrect2":"Müzisyenlik",
+        "incorrect3":"Kuyumculuk"
+    },
+    {
+        "question" : "Türkülerde de bahsi geçen 'Domdom kurşunu’ adını hangi ülkenin bir şehrinden alır?",
+        "correct_answer":"Hindistan",
+        "incorrect1":"Çin",
+        "incorrect2":"Sudan",
+        "incorrect3":"Nijerya"
+    },
+    {
+        "question" : "İngiltere’de Gloucestershire Havaalanı'nda kuşları kaçırmak için kimin şarkıları hoparlörden yayımlanmaktadır?",
+        "correct_answer":"Tina Turner",
+        "incorrect1":"Selena Gomez",
+        "incorrect2":"Justin Bieber",
+        "incorrect3":"Freddie Mercury"
+    },
+    {
+        "question" : "Hangi isimde bir böcek yoktur?",
+        "correct_answer":"Temmuz böceği",
+        "incorrect1":"Mayıs böceği",
+        "incorrect2":"Haziran böceği",
+        "incorrect3":"Ağustos böceği"
+    },
+    {
+        "question" : "Hangi ülkenin eski başbakanı sakız çiğnemeyi yasaklayıp, bir röportajında 'sakız çiğneyemedikleri için düşünemediklerini iddia edenler, muzu deneyin’ demiştir?",
+        "correct_answer":"Singapur",
+        "incorrect1":"Japonya",
+        "incorrect2":"Tayland",
+        "incorrect3":"Malezya"
+    },
+    {
+        "question" : "Osmanlı Devleti’nde padişaha özel olarak yapılan güreşlere ne ad verilir?",
+        "correct_answer":"Huzur Güreşleri",
+        "incorrect1":"Kaftan Güreşleri",
+        "incorrect2":"Saadet Güreşleri",
+        "incorrect3":"Divan Güreşleri"
+    },
+    {
+        "question" : "Albert Einstein’in 72. doğum gününde basının fotoğraf taleplerine karşı dil çıkararak cevap verdiği ünlü fotoğrafı nerede çekilmiştir?",
+        "correct_answer":"Arabada iki arkadaşının arasında",
+        "incorrect1":"Sınıfta öğrencilerinin önünde",
+        "incorrect2":"Parkta köpeğinin yanında",
+        "incorrect3":"Asansörde eşinin yanında"
+    },
+    {
+        "question" : "Hangi isimde bir spor vardır?",
+        "correct_answer":"Futbol tenisi",
+        "incorrect1":"Basketbol tenisi",
+        "incorrect2":"Beyzbol tenisi",
+        "incorrect3":"Hentbol tenisi"
+    },
+    {
+        "question" : "Ian Fleming 'Bond’ serisini yazarken 'James Bond’ ismini hangi mesleği yapan bir kişinin ismini kullanarak yazmıştır?",
+        "correct_answer":"Kuş bilimci",
+        "incorrect1":"Terzi",
+        "incorrect2":"Aşçı",
+        "incorrect3":"Antika araba satıcısı"
+    },
+    {
+        "question" : "Hangisi adını güreşte yapılan bir oyuna vermiştir?",
+        "correct_answer":"Tırpan",
+        "incorrect1":"Pulluk",
+        "incorrect2":"Orak",
+        "incorrect3":"Saban"
+    },
+    {
+        "question" : "Hangisi ABD’nin resmi olarak özür dilediği 5 olaydan biri değildir?",
+        "correct_answer":"Atom bombası kullanmak",
+        "incorrect1":"Kölelik",
+        "incorrect2":"Hawaii monarşisini devirmek",
+        "incorrect3":"Bir Nazi subayını korumak"
+    },
+    {
+        "question" : "10 yıla kadar karaya değmeden yaşayabilen kuş türü hangisidir?",
+        "correct_answer":"Albatros",
+        "incorrect1":"Pelikan",
+        "incorrect2":"Karabatak",
+        "incorrect3":"İspinoz"
+    },
+    {
+        "question" : "Fenerbahçe Spor Kulübü'nün ambleminde hangi ağacın dalı yer almaktadır?",
+        "correct_answer":"Meşe",
+        "incorrect1":"Zeytin",
+        "incorrect2":"Söğüt",
+        "incorrect3":"Defne"
+    },
+    {
+        "question" : "Olimpiyat tarihinde ilk kez Rio Olimpiyatları'nda yarışmış olan dünya genelindeki mültecilerden oluşan Sığınmacılar Ekibi’nin bayrağı ne hangisi olmuştur?",
+        "correct_answer":"Olimpiyat bayrağı",
+        "incorrect1":"Birleşmiş Milletler bayrağı",
+        "incorrect2":"Beyaz bayrak",
+        "incorrect3":"Kırmızı bayrak"
+    },
+    {
+        "question" : "Efsanenin orijinalinde, Ferhat’ın uğruna dağları deldiği Şirin kimin sevgilisidir?",
+        "correct_answer":"Hüsrev",
+        "incorrect1":"Kerem",
+        "incorrect2":"Rüstem",
+        "incorrect3":"Tahir"
+    },
+    {
+        "question" : "Hangi isimde bir gen vardır?",
+        "correct_answer":"Ben daha ölmedim",
+        "incorrect1":"Canım çok sıkılıyor",
+        "incorrect2":"Seviyor sevmiyor",
+        "incorrect3":"İncitme beni"
+    },
+    {
+        "question" : "Muhammed Ali’nin boks sporuna başlama sebebi nedir?",
+        "correct_answer":"Bisikletinin çalınması",
+        "incorrect1":"Çöpte boks eldiveni bulması",
+        "incorrect2":"Nişanlısına laf atılması",
+        "incorrect3":"Yemek sırasında önüne geçilmesi"
+    },
+    {
+        "question" : "Canlı bir kertenkeleye yaptığı makyajla sakal, parlak kanatlar ve korkutucu gözler ekleyip ejderhaya benzeterek arkadaşlarını korkutan tarihi kişi kimdir?",
+        "correct_answer":"Leonardo da Vinci",
+        "incorrect1":"Nostradamus",
+        "incorrect2":"Salvador Dali",
+        "incorrect3":"Napoleon Bonaparte"
+    },
+    {
+        "question" : "Tayland’da 21 yaşından büyük erkeklerin katıldığı çekilişte, kırmızı bileti çekenler askere giderken, hangi rengi çekenlerin askerliği ertelenir?",
+        "correct_answer":"Siyah",
+        "incorrect1":"Mavi",
+        "incorrect2":"Beyaz",
+        "incorrect3":"Sarı"
+    },
+    {
+        "question" : "'Inside Out’ animasyon filmindeki bir sahnede başroldeki çocuk tarafından beğenilmeyen hangi yiyecek Japon versiyonunda yeşil biberle değiştirilmiştir?",
+        "correct_answer":"Brokoli",
+        "incorrect1":"Ispanak",
+        "incorrect2":"Kereviz",
+        "incorrect3":"Pırasa"
+    },
+    {
+        "question" : "Ortalama günde 2 saatlik uyku süresi ile en kısa uyuyan memeli hangisidir?",
+        "correct_answer":"Afrika fili",
+        "incorrect1":"Vampir yarasa",
+        "incorrect2":"Dev panda",
+        "incorrect3":"Tembel hayvan"
+    },
+    {
+        "question" : "Boksta hangi sıklette mücadele eden boksör diğerlerinden daha zayıftır?",
+        "correct_answer":"Sinek sıklet",
+        "incorrect1":"Horoz sıklet",
+        "incorrect2":"Tüy sıklet",
+        "incorrect3":"Hafif sıklet"
+    },
+    {
+        "question" : "1996'da Yeni Zelanda’da bir radyo kanalını basıp yöneticisini rehin alan kişi hangi karakterin söylediği bir şarkının çalınmasını talep etmiştir?",
+        "correct_answer":"Kurbağa Kermit",
+        "incorrect1":"Alf",
+        "incorrect2":"Red Kit",
+        "incorrect3":"Temel Reis"
+    },
+    {
+        "question" : "ABD eski başkanlarından Thomas Jefferson’ın mezar taşında hangisi yazmaz?",
+        "correct_answer":"3. ABD Başkanı",
+        "incorrect1":"Bağımsızlık Bildirgesi'nin yazarı",
+        "incorrect2":"Virginia Üniversitesi'nin babası",
+        "incorrect3":"Ölümü 4 Temmuz 1826"
     }
 ]
